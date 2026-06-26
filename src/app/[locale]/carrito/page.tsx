@@ -311,22 +311,6 @@ export default function CarritoCheckoutPage() {
                     </div>
                   </div>
                 </CardShell>
-
-                <CardShell className="p-6 text-left">
-                  <div className="flex items-center gap-3">
-                    <div className="flex h-10 w-10 items-center justify-center border border-orange-100 bg-orange-50 text-orange-600">
-                      <ReceiptText className="h-5 w-5" />
-                    </div>
-                    <div>
-                      <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-slate-500">
-                        {t("financial.netTotal")}
-                      </p>
-                      <p className="mt-1 text-lg font-black text-slate-950">
-                        {formatPrice(grandTotal, "MXN", true)}
-                      </p>
-                    </div>
-                  </div>
-                </CardShell>
               </div>
 
               <div className="mt-10 w-full">

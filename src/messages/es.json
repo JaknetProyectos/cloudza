@@ -1,699 +1,699 @@
 {
   "header": {
-    "logoAlt": "Logo de Cloudza",
-    "brandSubtitle": "Soluciones digitales",
-    "cart": "Carrito",
-    "openMenu": "Abrir menú",
-    "closeMenu": "Cerrar menú",
+    "logoAlt": "Identificador de Cloudza",
+    "brandSubtitle": "Soluciones informáticas",
+    "cart": "Cesta",
+    "openMenu": "Desplegar menú",
+    "closeMenu": "Ocultar menú",
     "nav": {
-      "home": "Comienza aquí",
-      "about": "Conócenos",
-      "faq": "FAQ",
-      "contact": "Hablemos"
+      "home": "Iniciar aquí",
+      "about": "Quiénes somos",
+      "faq": "Preguntas frecuentes",
+      "contact": "Contacto"
     }
   },
   "cloudzaFaqPage": {
     "hero": {
-      "badge": "Preguntas Frecuentes",
-      "title": "Encuentra respuestas rápidas a las dudas más comunes sobre nuestros servicios",
-      "description": "Revisamos con claridad los temas más importantes para que tengas toda la información antes de elegir tu servicio."
+      "badge": "Centro de Ayuda",
+      "title": "Encuentra respuestas inmediatas a las consultas habituales sobre nuestros planes",
+      "description": "Explicamos de forma transparente los puntos clave para que dispongas de todos los datos antes de contratar tu plan."
     },
     "faqs": {
       "0": {
-        "question": "¿Los precios incluyen impuestos?",
-        "answer": "No, todos los precios son COSTO MÁS IVA (16%), el cual se agrega automáticamente en el carrito de compra. Al finalizar tu compra, verás el desglose completo con el precio base, el IVA y el total a pagar."
+        "question": "¿Los importes mostrados incluyen impuestos?",
+        "answer": "No, las tarifas publicadas reflejan el PRECIO SIN IVA (16%), el cual se calcula de forma automática al revisar el carrito. Al concretar la transacción, se mostrará el desglose preciso con el valor base, el impuesto correspondiente y el importe final."
       },
       "1": {
-        "question": "¿Cuál es la diferencia entre un VPS y un servidor dedicado?",
-        "answer": "El VPS (Servidor Virtual Privado) comparte recursos físicos con otros usuarios en el mismo servidor, aunque cada uno tiene su propio entorno virtualizado independiente. Un servidor dedicado ofrece hardware exclusivo completamente para ti, sin compartir recursos, lo que garantiza máximo rendimiento, control total y recursos dedicados al 100%."
+        "question": "¿Qué diferencia existe entre un VPS y un servidor dedicado?",
+        "answer": "El VPS (Servidor Virtual Privado) comparte componentes físicos con otros usuarios dentro del mismo nodo, manteniendo un entorno virtualizado totalmente autónomo. Por otro lado, un servidor dedicado pone a tu disposición hardware de uso exclusivo, sin particiones ni recursos compartidos, garantizando la máxima potencia, autonomía de gestión y rendimiento al 100%."
       },
       "2": {
-        "question": "¿Puedo mejorar mi plan más adelante?",
-        "answer": "Sí, absolutamente. Todos nuestros planes son escalables. Puedes aumentar recursos (RAM, almacenamiento, CPU) cuando tu proyecto lo requiera sin interrupciones en el servicio. El upgrade se realiza de manera sencilla desde tu panel de control, y solo pagas la diferencia prorrateada del período actual."
+        "question": "¿Es posible mejorar mi plan en el futuro?",
+        "answer": "Sí, por supuesto. Todas nuestras opciones son completamente escalables. Tienes la posibilidad de incrementar las capacidades (memoria RAM, espacio en disco, núcleos de CPU) cuando tu negocio lo demande sin cortes en el servicio. La actualización se gestiona fácilmente a través de tu panel de administración, abonando únicamente el saldo proporcional por el periodo restante."
       },
       "3": {
-        "question": "¿Incluyen soporte técnico?",
-        "answer": "Sí, todos nuestros planes incluyen soporte técnico especializado y monitoreo constante de tu servicio. Nuestro equipo está disponible para ayudarte con problemas relacionados con el servidor, configuraciones y funcionamiento de la infraestructura. El soporte se ofrece a través de tickets, chat en vivo y correo electrónico."
+        "question": "¿Se incluye asistencia técnica en el servicio?",
+        "answer": "Sí, todos los planes disponen de soporte técnico cualificado y supervisión continua de la infraestructura. Nuestro personal está preparado para asistirte en incidencias del servidor, parametrización y soporte a nivel de plataforma. Esta asistencia se canaliza por medio de tickets de soporte, chat en tiempo real y correo electrónico."
       },
       "4": {
-        "question": "¿Qué métodos de pago aceptan?",
-        "answer": "Actualmente aceptamos tarjetas de crédito y débito Visa y Mastercard. Los pagos se procesan de forma segura a través de nuestra plataforma encriptada. Todos los pagos deben realizarse por adelantado según el ciclo de facturación que elijas (mensual, trimestral, semestral o anual)."
+        "question": "¿Qué formas de pago admiten?",
+        "answer": "Por el momento admitimos tarjetas de crédito y débito bajo los sellos Visa y Mastercard. Las transacciones se realizan de manera completamente segura mediante nuestra pasarela con cifrado. Todo servicio se liquida por anticipado de acuerdo con la periodicidad de facturación seleccionada (mensual, trimestral, semestral o anual)."
       },
       "5": {
-        "question": "¿Ofrecen migración gratuita desde mi proveedor actual?",
-        "answer": "Sí, ofrecemos asistencia básica de migración sin costo para planes de hosting compartido y VPS. Nuestro equipo técnico te ayudará a transferir tu sitio web, bases de datos y correos electrónicos desde tu proveedor actual. Para migraciones más complejas o servidores dedicados, podemos evaluar el caso y proporcionar un presupuesto personalizado."
+        "question": "¿Realizan la migración de mi proveedor anterior sin coste?",
+        "answer": "Sí, ofrecemos traslado básico sin cargos adicionales para los servicios de alojamiento compartido y servidores VPS. Nuestros especialistas se encargarán de mudar tu plataforma web, bases de datos y buzones de correo desde tu actual proveedor. Ante proyectos de mayor complejidad o migraciones a servidores dedicados, realizamos una valoración previa para cotizar una propuesta a medida."
       },
       "6": {
-        "question": "¿Los planes incluyen certificado SSL gratuito?",
-        "answer": "Sí, todos nuestros planes de hosting incluyen certificado SSL gratuito (Let’s Encrypt) que se renueva automáticamente. Esto garantiza que tu sitio web tenga conexión segura HTTPS. Si necesitas un certificado SSL premium con mayor nivel de validación, también ofrecemos opciones de pago."
+        "question": "¿Los paquetes incorporan certificado SSL de cortesía?",
+        "answer": "Sí, cada uno de nuestros planes de hospedaje viene con un certificado SSL gratuito (Let’s Encrypt) que cuenta con renovación automatizada. De este modo se asegura que tu plataforma opere bajo el protocolo seguro HTTPS. En caso de requerir un certificado SSL de nivel premium con validación avanzada, disponemos también de alternativas de pago."
       },
       "7": {
-        "question": "¿Cuál es el tiempo de respuesta del soporte técnico?",
-        "answer": "Nuestro tiempo promedio de primera respuesta es de 1-2 horas para tickets estándar y de 30 minutos o menos para emergencias críticas. El soporte está disponible 24/7 los 365 días del año. Los tiempos de resolución dependen de la complejidad del problema, pero nos esforzamos por resolver la mayoría de los casos en menos de 24 horas."
+        "question": "¿Cuál es el periodo de espera para recibir asistencia?",
+        "answer": "Nuestra respuesta inicial toma en promedio de 1 a 2 horas para requerimientos generales y 30 minutos o menos frente a contingencias prioritarias. La atención se mantiene activa 24/7 los 365 días del año. Aunque el tiempo definitivo de solución está sujeto a la dificultad del caso, trabajamos para cerrar la mayoría de las incidencias en un plazo menor a 24 horas."
       },
       "8": {
-        "question": "¿Realizan copias de seguridad de mis datos?",
-        "answer": "Sí, realizamos copias de seguridad automáticas diarias de todos los datos en nuestros servidores. Sin embargo, estas copias son una cortesía y no sustituyen tus propias copias de seguridad. Te recomendamos mantener backups independientes de tu contenido crítico. Desde tu panel de control puedes descargar copias de seguridad en cualquier momento."
+        "question": "¿Se efectúan copias de seguridad de mis archivos?",
+        "answer": "Sí, programamos respaldos automatizados cada día de la información almacenada en nuestros servidores. No obstante, dichos respaldos se brindan como una atención y no eximen al usuario de gestionar sus propias copias. Recomendamos almacenar copias externas de tu información esencial. Puedes descargar tus respaldos cuando lo desees directamente desde el panel."
       },
       "9": {
-        "question": "¿Tienen garantía de devolución de dinero?",
-        "answer": "Sí, ofrecemos una garantía de reembolso de 30 días en planes de hosting compartido y VPS nuevos. Si no estás satisfecho con el servicio durante los primeros 30 días, puedes solicitar un reembolso completo. Los servidores dedicados, dominios y servicios adicionales no están cubiertos por esta garantía. Consulta nuestra Política de Reembolso para más detalles."
+        "question": "¿Disponen de garantía de reembolso?",
+        "answer": "Sí, contamos con un periodo de garantía de satisfacción de 30 días para contrataciones nuevas de hosting compartido y VPS. Si el servicio no cumple tus expectativas dentro de dicho plazo, tienes derecho a reclamar la devolución íntegra de tu dinero. Los servidores dedicados, el registro de dominios y las herramientas complementarias quedan excluidos de este beneficio. Te invitamos a leer nuestra Política de Reembolso para conocer los detalles."
       }
     }
   },
   "cloudzaContactForm": {
-    "badge": "Contacto profesional",
-    "title": "Cuéntanos sobre tu proyecto",
-    "description": "Cuéntanos sobre tu proyecto, infraestructura o necesidades técnicas. Nuestro equipo te responderá con una solución clara, profesional y escalable.",
+    "badge": "Atención especializada",
+    "title": "Háblanos de tu proyecto",
+    "description": "Explícanos los requerimientos de tu proyecto, arquitectura o necesidades técnicas. Nuestro equipo te atenderá con una propuesta clara, eficiente y escalable.",
     "form": {
-      "nameLabel": "Nombre completo",
-      "namePlaceholder": "Tu nombre completo",
-      "emailLabel": "Correo electrónico",
-      "emailPlaceholder": "tu@email.com",
-      "subjectLabel": "Asunto",
-      "subjectPlaceholder": "Escribe el asunto",
-      "messageLabel": "Mensaje",
-      "messagePlaceholder": "Cuéntanos cómo podemos ayudarte"
+      "nameLabel": "Nombre y apellidos",
+      "namePlaceholder": "Escribe tu nombre",
+      "emailLabel": "Dirección de correo",
+      "emailPlaceholder": "usuario@correo.com",
+      "subjectLabel": "Motivo",
+      "subjectPlaceholder": "Indica el asunto",
+      "messageLabel": "Comentarios",
+      "messagePlaceholder": "Detalla en qué podemos colaborarte"
     },
     "buttons": {
-      "send": "Enviar mensaje",
-      "sending": "Enviando...",
-      "sent": "Mensaje enviado"
+      "send": "Enviar datos",
+      "sending": "Procesando...",
+      "sent": "Información enviada"
     },
     "messages": {
-      "success": "Tu mensaje fue enviado correctamente.",
-      "error": "Ocurrió un error al enviar el mensaje."
+      "success": "Tu solicitud ha sido enviada correctamente.",
+      "error": "Se produjo un fallo al intentar enviar el mensaje."
     }
   },
   "cloudzaContactPage": {
     "metadata": {
-      "title": "Contacto | Cloudza",
-      "description": "Ponte en contacto con Cloudza para resolver dudas, solicitar asesoría o recibir soporte especializado."
+      "title": "Atención al Cliente | Cloudza",
+      "description": "Comunícate con Cloudza para aclarar dudas, solicitar asesoramiento personalizado o recibir soporte técnico especializado."
     },
     "hero": {
-      "title": "Hablemos sobre tu proyecto",
-      "subtitle": "Estamos listos para ayudarte con soluciones de hosting, infraestructura y servicios tecnológicos adaptados a tus necesidades."
+      "title": "Platiquemos sobre tu negocio",
+      "subtitle": "Estamos preparados para brindarte asesoría en soluciones de hospedaje, infraestructura y servicios de TI adaptables a tus requerimientos."
     }
   },
   "cloudzaAbout": {
     "hero": {
-      "title": "Conoce la esencia que nos impulsa y los valores que guían cada decisión que tomamos",
-      "description": "Construimos infraestructura confiable, segura y escalable para que tu proyecto avance con claridad, velocidad y respaldo real."
+      "title": "Descubre la filosofía que nos mueve y las pautas que rigen cada uno de nuestros pasos",
+      "description": "Desarrollamos entornos tecnológicos firmes, protegidos y flexibles para que tu negocio progrese con solidez, agilidad y un respaldo auténtico."
     },
     "essence": {
-      "eyebrow": "Nuestra esencia",
-      "title": "Tecnología pensada para acompañarte, no para frenarte.",
-      "description1": "En el corazón de Cloudza late un compromiso genuino con el éxito digital de cada cliente. Creemos que la tecnología debe ser un aliado, no un obstáculo.",
-      "description2": "Nuestra filosofía se basa en construir relaciones duraderas basadas en la confianza, la transparencia y el crecimiento mutuo."
+      "eyebrow": "Nuestra identidad",
+      "title": "Tecnología diseñada para impulsar tus ideas, no para limitarlas.",
+      "description1": "En el núcleo de Cloudza reside una meta clara con el progreso web de cada usuario. Sostenemos que los recursos digitales deben actuar como facilitadores, nunca como barreras.",
+      "description2": "Nuestra visión se centra en forjar alianzas duraderas basadas en la certidumbre, la claridad y el desarrollo compartido."
     },
     "pillars": {
       "mission": {
-        "title": "Misión",
-        "description": "Impulsar el crecimiento digital de personas y empresas mediante soluciones tecnológicas confiables, seguras y escalables, brindando soporte humano y cercano en cada etapa."
+        "title": "Propósito",
+        "description": "Acelerar la evolución digital de usuarios y organizaciones mediante plataformas tecnológicas estables, protegidas y adaptables, ofreciendo un trato humano y cercano en todo momento."
       },
       "vision": {
-        "title": "Visión",
-        "description": "Ser un referente en soluciones de hosting y servicios en la nube, reconocidos por la innovación, calidad de servicio y compromiso con el éxito de cada cliente."
+        "title": "Proyección",
+        "description": "Posicionarnos como líderes en soluciones de hospedaje y entornos en la nube, distinguidos por nuestra innovación, excelencia operativa y la entrega con las metas de nuestros clientes."
       }
     },
     "values": {
-      "eyebrow": "Valores que nos definen",
-      "title": "Principios que orientan cada decisión.",
+      "eyebrow": "Pilares que nos guían",
+      "title": "Normas que conducen nuestras operaciones.",
       "items": {
         "commitment": {
-          "title": "Compromiso",
-          "description": "Atención personalizada y enfoque en resultados."
+          "title": "Dedicación",
+          "description": "Soporte personalizado enfocado en la obtención de resultados."
         },
         "innovation": {
-          "title": "Innovación",
-          "description": "Tecnología de punta y mejora continua."
+          "title": "Evolución",
+          "description": "Infraestructura de última generación y optimización constante."
         },
         "transparency": {
-          "title": "Transparencia",
-          "description": "Comunicación clara y precios justos."
+          "title": "Claridad",
+          "description": "Intercambio de información abierto y tarifas razonables."
         },
         "reliability": {
-          "title": "Confiabilidad",
-          "description": "Infraestructura sólida y soporte constante."
+          "title": "Firmeza",
+          "description": "Arquitectura robusta y asistencia permanente."
         },
         "growth": {
-          "title": "Crecimiento conjunto",
-          "description": "El éxito del cliente es el nuestro."
+          "title": "Progreso mutuo",
+          "description": "El éxito de nuestros usuarios representa el nuestro."
         }
       }
     },
     "timeline": {
-      "eyebrow": "Nuestro proceso",
-      "title": "Un recorrido claro, preciso y acompañado.",
+      "eyebrow": "Nuestra metodología",
+      "title": "Una trayectoria estructurada, clara y con asesoramiento continuo.",
       "steps": {
         "understanding": {
-          "title": "Comprensión profunda",
-          "description": "Escuchamos activamente para comprender tus necesidades y objetivos específicos."
+          "title": "Análisis exhaustivo",
+          "description": "Estudiamos tus prioridades para asimilar tus metas y requerimientos específicos."
         },
         "solutions": {
-          "title": "Soluciones personalizadas",
-          "description": "Diseñamos infraestructuras que se adaptan perfectamente a tu proyecto."
+          "title": "Diseño a medida",
+          "description": "Estructuramos plataformas que se acoplan idóneamente a los requerimientos de tu negocio."
         },
         "implementation": {
-          "title": "Implementación cuidadosa",
-          "description": "Desplegamos tu solución con atención meticulosa a cada detalle."
+          "title": "Despliegue minucioso",
+          "description": "Activamos tu infraestructura prestando atención detallada a cada parámetro técnico."
         },
         "support": {
-          "title": "Soporte continuo",
-          "description": "Acompañamos tu crecimiento con soporte proactivo y especializado."
+          "title": "Acompañamiento diario",
+          "description": "Validamos tu expansión tecnológica a través de soporte preventivo y cualificado."
         }
       }
     }
   },
   "cloudzaFooter": {
-    "description": "Infraestructura tecnológica de alto rendimiento para empresas, desarrolladores y proyectos que buscan estabilidad, velocidad y seguridad empresarial.",
-    "securePayments": "Pagos seguros",
-    "cardsAlt": "Visa y Mastercard",
+    "description": "Plataformas tecnológicas de alta eficiencia orientadas a corporativos, programadores y marcas que requieren solidez, rapidez y protección corporativa.",
+    "securePayments": "Transacciones protegidas",
+    "cardsAlt": "Logotipos de Visa y Mastercard",
     "legal": {
-      "title": "Información legal",
-      "terms": "Términos y Condiciones",
-      "privacy": "Aviso de Privacidad",
-      "refunds": "Política de Reembolsos y Cancelaciones"
+      "title": "Políticas y condiciones",
+      "terms": "Condiciones del Servicio",
+      "privacy": "Política de Privacidad",
+      "refunds": "Políticas de Cancelación y Devoluciones"
     },
     "contact": {
-      "title": "Contacto",
-      "email": "Correo electrónico",
-      "phone": "Teléfono",
-      "address": "Dirección",
+      "title": "Medios de contacto",
+      "email": "E-mail",
+      "phone": "Número telefónico",
+      "address": "Ubicación",
       "addressValue": "AVENIDA HOMERO N°205 PISO 10, COLONIA POLANCO V SECCIÓN, ALCALDÍA MIGUEL HIDALGO, C.P. 11560, CIUDAD DE MÉXICO"
     },
-    "copyright": "© 2025 Cloudza. Todos los derechos reservados.",
-    "madeInMexico": "Hecho con ❤️ en México"
+    "copyright": "© 2025 Cloudza. Reservados todos los derechos.",
+    "madeInMexico": "Creado con 💻 en México"
   },
   "cloudzaCta": {
-    "eyebrow": "Infraestructura profesional",
-    "title": "¿Listo para impulsar tu proyecto?",
-    "description": "No solo obtienes un servicio, sino una experiencia optimizada y confiable para tus proyectos en línea.",
-    "contactButton": "Contáctanos ahora",
-    "plansButton": "Ver planes"
+    "eyebrow": "Estructuras de nivel profesional",
+    "title": "¿Estás listo para acelerar tu idea?",
+    "description": "No contratas un simple espacio web, adquieres un entorno optimizado y sólido para asegurar tu presencia en la red.",
+    "contactButton": "Escríbenos hoy mismo",
+    "plansButton": "Revisar planes"
   },
   "cloudzaWhyChooseUs": {
-    "eyebrow": "Por qué elegir Cloudza",
-    "title": "Tecnología de clase mundial",
-    "premiumInfrastructure": "Infraestructura premium",
+    "eyebrow": "Ventajas de Cloudza",
+    "title": "Infraestructura de vanguardia global",
+    "premiumInfrastructure": "Plataforma de alta gama",
     "features": {
       "security": {
-        "title": "Seguridad Empresarial",
-        "badge": "Máxima protección",
-        "description": "Protección DDoS avanzada, monitoreo continuo y copias de seguridad automáticas en ubicaciones seguras."
+        "title": "Protección Corporativa",
+        "badge": "Seguridad total",
+        "description": "Mitigación de ataques DDoS de última generación, supervisión permanente y respaldos automatizados en centros de datos seguros."
       },
       "support": {
-        "title": "Soporte Especializado",
-        "badge": "Equipo experto",
-        "description": "Asistencia técnica real, oportuna y sin complicaciones cuando más la necesitas."
+        "title": "Asistencia Cualificada",
+        "badge": "Especialistas al frente",
+        "description": "Soporte técnico real, veloz y sin contratiempos en los momentos clave para tu negocio."
       },
       "scalability": {
-        "title": "Escalabilidad real",
-        "badge": "Crece sin límites",
-        "description": "Planes flexibles que crecen junto con tu proyecto, sin interrupciones ni migraciones complejas."
+        "title": "Escalabilidad efectiva",
+        "badge": "Evolución ilimitada",
+        "description": "Opciones flexibles que se adaptan conforme tu proyecto progresa, evitando cortes o traslados complejos."
       },
       "trust": {
-        "title": "Experiencia confiable",
-        "badge": "Confianza certificada",
-        "description": "Tecnología de vanguardia respaldada por años de experiencia y certificaciones internacionales."
+        "title": "Respaldo garantizado",
+        "badge": "Trayectoria avalada",
+        "description": "Entornos de hosting avanzados avalados por una sólida trayectoria y estándares internacionales de calidad."
       },
       "performance": {
-        "title": "Rendimiento Garantizado",
-        "badge": "Velocidad extrema",
-        "description": "Servidores modernos con discos SSD NVMe y conectividad de alta velocidad para tiempos de carga ultrarrápidos."
+        "title": "Eficiencia Comprobada",
+        "badge": "Máxima fluidez",
+        "description": "Nodos equipados con unidades de almacenamiento SSD NVMe y conectividad redundante para ofrecer velocidades de carga inmediatas."
       }
     }
   },
   "productCard": {
-    "includes": "Incluye",
-    "requestQuote": "Solicitar cotización",
-    "addToCart": "Agregar al carrito",
-    "recommended": "Recomendado"
+    "includes": "Contiene",
+    "requestQuote": "Pedir presupuesto",
+    "addToCart": "Añadir a la cesta",
+    "recommended": "Destacado"
   },
   "planModal": {
-    "back": "Regresar a los planes",
-    "badge": "Hosting Corporativo",
-    "startingAt": "A partir de",
-    "quantity": "Cantidad",
-    "total": "Total",
-    "addToCart": "Añadir al carrito",
+    "back": "Volver a la selección",
+    "badge": "Hospedaje Empresarial",
+    "startingAt": "Disponible desde",
+    "quantity": "Unidades",
+    "total": "Importe total",
+    "addToCart": "Incorporar al carrito",
     "features": {
-      "badge": "Recursos Incluidos",
-      "title": "Optimizado para entornos de producción"
+      "badge": "Recursos Asignados",
+      "title": "Configurado para entornos en producción"
     }
   },
   "contactForm": {
-    "badge": "Estamos listos para ayudarte.",
-    "title": "Canal de contacto",
+    "badge": "Estamos preparados para guiarte.",
+    "title": "Medio de comunicación",
     "form": {
-      "namePlaceholder": "Tu nombre",
-      "emailPlaceholder": "Dirección de correo",
-      "messagePlaceholder": "Escribe tu mensaje"
+      "namePlaceholder": "Escribe tu nombre",
+      "emailPlaceholder": "Tu correo electrónico",
+      "messagePlaceholder": "Detalla tus dudas"
     },
     "messages": {
-      "success": "El mensaje se envió correctamente.",
-      "error": "Hubo un problema al enviar tu mensaje."
+      "success": "Los datos se enviaron de manera correcta.",
+      "error": "Se presentó un inconveniente al procesar el mensaje."
     },
     "buttons": {
-      "sending": "Procesando envío...",
-      "sent": "Enviado con éxito",
-      "send": "Enviar mensaje"
+      "sending": "Enviando datos...",
+      "sent": "Entregado con éxito",
+      "send": "Enviar información"
     }
   },
   "storePage": {
     "hero": {
-      "title": "Planes y tarifas",
-      "subtitle": "Brinda a tu plataforma la calidad que requiere — ¡invierte en un hosting de alto nivel!"
+      "title": "Opciones y tarifas",
+      "subtitle": "Brinda a tu plataforma el estándar que se merece — ¡invierte en infraestructura de nivel superior!"
     },
     "plans": {
-      "badge": "Planes de hosting",
-      "title": "Servidores desarrollados para alta velocidad y escalabilidad",
-      "description": "Selecciona la opción de alojamiento ideal para tu iniciativa, ya sea el lanzamiento de un blog o la expansión de sistemas corporativos."
+      "badge": "Servicios de hospedaje",
+      "title": "Nodos estructurados para entregar alta velocidad y crecimiento",
+      "description": "Elige la alternativa de alojamiento idónea para tus requerimientos, desde la puesta en marcha de un sitio personal hasta el despliegue de plataformas corporativas."
     },
     "flexibility": {
-      "badge": "Flexibilidad absoluta",
-      "title": "Diseña una opción de hosting a la medida de tu proyecto",
-      "description": "Modifica tu servidor, recursos e infraestructura según tus especificaciones concretas. Configuración adaptable para tu crecimiento.",
-      "button": "Solicitar presupuesto",
-      "note": "¿Buscas una arquitectura a medida? Nuestro personal técnico te guiará para estructurar el entorno de hosting perfecto."
+      "badge": "Adaptación total",
+      "title": "Estructura un servicio de hosting ajustado a tus necesidades",
+      "description": "Modifica las características del servidor, capacidades e infraestructura de acuerdo con tus requerimientos particulares. Entornos flexibles para tu evolución.",
+      "button": "Solicitar cotización",
+      "note": "¿Requieres un entorno personalizado? Nuestros ingenieros te asesorarán para estructurar la arquitectura web ideal."
     }
   },
   "aboutPage": {
     "metadata": {
-      "title": "After the Cloud — Cloudza",
-      "description": "Nuestra identidad y propósito. Dale a tu portal la calidad que exige: hosting estable, blindado y de excelente velocidad."
+      "title": "Más allá de la nube — Cloudza",
+      "description": "Nuestra esencia y metas comerciales. Dale a tu sitio la calidad que requiere: hospedaje estable, blindado y de gran velocidad."
     },
     "hero": {
-      "title": "Quiénes somos y nuestro propósito",
-      "subtitle": "Dale a tu portal la calidad que exige: hosting estable, blindado y de excelente velocidad para potenciar tu presencia web."
+      "title": "Quiénes somos y qué nos motiva",
+      "subtitle": "Proporciona a tu portal el rendimiento que exige: alojamiento robusto, seguro y de gran velocidad para consolidar tu marca en la red."
     },
-    "badge": "Acerca de Cloudza",
-    "sectionTitle": "Arquitectura web pensada para el ecosistema corporativo actual",
+    "badge": "Acerca de nosotros",
+    "sectionTitle": "Arquitectura en la nube configurada para las demandas empresariales actuales",
     "intro": {
-      "first": "Apoyamos a corporaciones, programadores y proyectos digitales a consolidar plataformas web estables mediante planes de hosting adaptables, blindados y veloces.",
-      "second": "Nuestra meta va más allá de los servidores; nos enfocamos en la continuidad del servicio, la precisión técnica y un respaldo real en cada fase de tu evolución."
+      "first": "Ayudamos a organizaciones, desarrolladores y proyectos interactivos a estructurar plataformas web firmes mediante planes de hosting flexibles, blindados y ágiles.",
+      "second": "Nuestro compromiso va más allá de proveer servidores; priorizamos la continuidad del negocio, la solvencia técnica y el respaldo real en cada etapa de tu crecimiento."
     },
     "values": {
       "mission": {
         "title": "Misión",
-        "desc": "Transformar el entorno digital proveyendo servicios de hosting robustos que impulsen a marcas y proyectos a evolucionar con vanguardia, protección y solidez."
+        "desc": "Modernizar el sector digital entregando soluciones de hospedaje robustas que faciliten a marcas e iniciativas expandirse con innovación, seguridad y firmeza."
       },
       "role": {
-        "title": "Nuestro Rol",
-        "desc": "Convertirnos en el pilar tecnológico de proyectos a nivel global, ofreciendo servidores de última generación, disponibilidad máxima y acompañamiento técnico para asegurar el éxito en la red."
+        "title": "Nuestra Función",
+        "desc": "Consolidarnos como el aliado tecnológico de proyectos globales, aportando hardware de última generación, máxima disponibilidad y soporte especializado para afianzar el éxito digital."
       },
       "value": {
-        "title": "Nuestros Valores",
-        "desc": "Nos dedicamos a aportar beneficios reales: velocidad optimizada, protección avanzada y atención a medida. Nuestra prioridad es clara: acelerar el cumplimiento de tus metas en internet."
+        "title": "Nuestros Compromisos",
+        "desc": "Trabajamos para entregar beneficios tangibles: velocidad optimizada, protección de vanguardia y soporte a medida. Nuestro enfoque es simple: impulsar el alcance de tus objetivos en internet."
       }
     },
     "cta": {
-      "heading": "Inicia tu camino al éxito digital con nuestro respaldo",
-      "button": "Comenzar ahora"
+      "heading": "Comienza tu evolución digital con el soporte de nuestros expertos",
+      "button": "Empezar ahora"
     }
   },
   "cta": {
-    "badge": "¿Todo listo?",
-    "heading": "Inicia aquí tu camino al éxito en internet",
-    "description": "Despliega tu próximo sitio con infraestructura blindada, servidores veloces y planes de alojamiento escalables.",
-    "buttonLabel": "Iniciar",
+    "badge": "¿Todo preparado?",
+    "heading": "Inicia en este momento tu camino al éxito digital",
+    "description": "Pon en marcha tu próximo sitio con infraestructura blindada, servidores ágiles y planes de alojamiento escalables.",
+    "buttonLabel": "Comenzar",
     "panel": {
-      "infrastructureStatus": "Estado de los Servidores",
-      "operational": "En línea",
+      "infrastructureStatus": "Estado de la Red",
+      "operational": "Operando",
       "stats": {
-        "uptime": "Tiempo en línea",
-        "response": "Reacción",
-        "deployments": "Lanzamientos",
+        "uptime": "Disponibilidad",
+        "response": "Latencia",
+        "deployments": "Instalancias",
         "security": "Protección",
-        "fast": "Veloz",
-        "active": "Habilitada"
+        "fast": "Fluido",
+        "active": "Operativa"
       }
     }
   },
   "pricing": {
-    "badge": "Planes",
-    "title": "Planes y servicios",
-    "description": "Soluciones serias, modernas y escalables para hosting, servidores y servicios especializados."
+    "badge": "Tarifas",
+    "title": "Planes y alternativas",
+    "description": "Soluciones formales, innovadoras y adaptables para hosting, servidores y arquitecturas dedicadas."
   },
   "faq": {
-    "badge": "¿Tienes dudas?",
-    "title": "Preguntas Frecuentes",
-    "description": "Información clave sobre nuestra infraestructura web, tiempos de aprovisionamiento y canales de soporte.",
+    "badge": "¿Tienes preguntas?",
+    "title": "Dudas Habituales",
+    "description": "Datos esenciales sobre nuestros servidores, plazos de activación y medios de asistencia técnica.",
     "items": [
       {
-        "q": "¿Qué modalidades de hosting ofrecen?",
-        "a": "Disponemos de planes de hosting compartido, VPS, servidores dedicados y cloud hosting para cubrir todo tipo de necesidades."
+        "q": "¿Qué opciones de hospedaje manejan?",
+        "a": "Ofrecemos planes de hosting compartido, servidores VPS, equipos dedicados y cloud hosting para cubrir cualquier tipo de requerimiento."
       },
       {
-        "q": "¿Cuentan con soporte técnico las 24 horas?",
-        "a": "Así es, nuestro personal de soporte está activo de forma ininterrumpida todos los días del año para asistirte cuando sea necesario."
+        "q": "¿Disponen de atención al cliente las 24 horas?",
+        "a": "Efectivamente, nuestro equipo de asistencia permanece disponible de manera ininterrumpida los 365 días del año para ayudarte cuando lo requieras."
       },
       {
-        "q": "¿El certificado SSL viene incluido de forma gratuita?",
-        "a": "Sí, cada uno de nuestros planes dispone de certificados SSL sin costo para reforzar la protección de tu sitio web."
+        "q": "¿La protección SSL está incluida sin coste?",
+        "a": "Sí, todos los planes de hosting integran certificados SSL gratuitos para resguardar la seguridad de tus usuarios."
       },
       {
-        "q": "¿Es posible mejorar mi plan en el futuro?",
-        "a": "Por supuesto, puedes incrementar los recursos de tu plan fácilmente en el momento en que tu proyecto lo requiera."
+        "q": "¿Es posible escalar a un plan superior más adelante?",
+        "a": "Sin duda, tienes la opción de expandir los recursos asignados a tu plan de manera ágil cuando las necesidades de tu sitio aumenten."
       },
       {
-        "q": "¿Disponen de respaldos automatizados?",
-        "a": "Sí, programamos copias de seguridad de forma automática para resguardar tus datos y garantizar su pronta restauración."
+        "q": "¿Cuentan con respaldos periódicos automáticos?",
+        "a": "Sí, realizamos copias de seguridad de forma programada para proteger tus contenidos y asegurar una restauración ágil ante eventualidades."
       },
       {
-        "q": "¿Cuánto tarda el despliegue del servidor?",
-        "a": "Nuestra plataforma realiza activaciones de forma instantánea para que comiences a trabajar en tu sitio en unos cuantos minutos."
+        "q": "¿Cuánto tiempo toma la activación del servidor?",
+        "a": "Nuestros sistemas efectúan los despliegues de manera inmediata para que puedas configurar tu sitio web en cuestión de minutos."
       }
     ]
   },
   "globalTrust": {
-    "badge": "Confianza Internacional",
-    "title": "Presencia en internet totalmente segura",
-    "description": "A través de nuestra infraestructura optimizada, proveemos un entorno estable para que tu página web funcione sin caídas, respaldada por filtros de seguridad avanzados y un soporte técnico listo para responder siempre.",
-    "cta": "Ver Soluciones"
+    "badge": "Alcance Internacional",
+    "title": "Presencia web completamente protegida",
+    "description": "Por medio de nuestra plataforma web optimizada, brindamos un ecosistema firme para que tu portal funcione de forma continua, respaldado por sistemas de protección perimetral y un soporte preparado para asistirte en todo momento.",
+    "cta": "Explorar Soluciones"
   },
   "cartPage": {
     "breadcrumb": {
-      "home": "Inicio",
-      "summary": "1. Revisión",
-      "shippingPayment": "2. Datos de Facturación"
+      "home": "Portada",
+      "summary": "1. Confirmación",
+      "shippingPayment": "2. Información Fiscal"
     },
     "success": {
-      "title": "¡Pago Procesado de Forma Exitosa!",
-      "description": "Tu pago ha sido aceptado. El espacio cloud de tu servicio de hosting ya se encuentra en proceso de configuración para su entrega.",
-      "paymentReference": "Referencia de Pago:",
-      "paidAmount": "Monto Liquidado:",
-      "transactionStatus": "Estado del Pago:",
-      "approved": "APROBADO",
-      "backToCatalog": "Regresar a la Tienda"
+      "title": "¡Transacción Procesada Correctamente!",
+      "description": "Tu pago ha sido autorizado. El entorno cloud de tu plan seleccionado ya se encuentra en fase de aprovisionamiento para su entrega.",
+      "paymentReference": "ID de Operación:",
+      "paidAmount": "Total Abonado:",
+      "transactionStatus": "Estado de la Solicitud:",
+      "approved": "CONFIRMADO",
+      "backToCatalog": "Volver al Catálogo"
     },
     "empty": {
-      "title": "El carrito de compras está vacío",
-      "description": "No se han detectado servicios de hosting asignados a tu sesión actual de compras.",
-      "goToStore": "Explorar Catálogo"
+      "title": "La cesta de compras se encuentra vacía",
+      "description": "No se han registrado servicios de alojamiento vinculados a tu sesión de compra actual.",
+      "goToStore": "Ver Productos"
     },
     "order": {
-      "title": "Servicios solicitados",
-      "clear": "Vaciar Carrito"
+      "title": "Servicios elegidos",
+      "clear": "Limpiar Cesta"
     },
     "financial": {
-      "title": "Detalle de Costos",
-      "couponPlaceholder": "Ingresa un cupón",
-      "applyCoupon": "Aplicar",
-      "appliedCoupon": "Código {code} (-{discount}%)",
-      "remove": "Quitar",
-      "couponInvalid": "No se ha intruducido un cupón",
-      "subtotal": "Subtotal de Hosting:",
-      "discount": "Descuento Directo:",
-      "netTotal": "Total Neto a Pagar:",
-      "tax": "IVA {tax}"
+      "title": "Desglose de Tarifas",
+      "couponPlaceholder": "Introduce un código",
+      "applyCoupon": "Validar",
+      "appliedCoupon": "Cupón {code} (-{discount}%)",
+      "remove": "Eliminar",
+      "couponInvalid": "No se ha ingresado ningún cupón",
+      "subtotal": "Subtotal de Hospedaje:",
+      "discount": "Descuento Aplicado:",
+      "netTotal": "Importe Neto a Liquidar:",
+      "tax": "I.V.A. {tax}"
     },
     "actions": {
-      "proceedToPayment": "Avanzar al Pago",
-      "processing": "Validando transacción mediante Octano...",
+      "proceedToPayment": "Continuar al Pago",
+      "processing": "Verificando operación a través de Octano...",
       "payAmount": "Abonar {amount}",
-      "backToCart": "Modificar pedido / Aplicar cupón"
+      "backToCart": "Editar pedido / Ingresar cupón"
     },
     "errors": {
-      "declined": "La transacción fue rechazada por el banco emisor.",
-      "connection": "Se presentó un problema de conexión con el procesador de pagos."
+      "declined": "La operación fue denegada por la institución bancaria correspondiente.",
+      "connection": "Se experimentó un fallo de comunicación con la plataforma de pagos."
     },
     "metadata": {
-      "couponApplied": "Cupón de descuento activo",
-      "standardSale": "Transacción digital estándar"
+      "couponApplied": "Código promocional habilitado",
+      "standardSale": "Operación comercial electrónica estándar"
     },
     "form": {
-      "buyerTitle": "Información del Cliente / Facturación",
-      "addressTitle": "Datos de Envío y Activación",
-      "paymentTitle": "Pasarela de Pago Encriptada",
+      "buyerTitle": "Información del Usuario / Facturación",
+      "addressTitle": "Datos de Localización y Activación",
+      "paymentTitle": "Pasarela de Cobro Protegida",
       "firstName": "Nombre(s) *",
       "lastName": "Apellidos *",
       "email": "Correo electrónico *",
-      "phone": "Teléfono Móvil (10 dígitos) *",
-      "company": "Razón Social / Empresa (Opcional)",
-      "streetAddress": "Dirección (Calle, No. Ext. e Int.) *",
+      "phone": "Teléfono Celular (10 posiciones) *",
+      "company": "Denominación Social / Empresa (Opcional)",
+      "streetAddress": "Ubicación (Calle, Núm. Ext. e Int.) *",
       "streetAddressPlaceholder": "Av. Universidad 450, Int 4",
-      "neighborhood": "Colonia / Cruces (Opcional)",
+      "neighborhood": "Colonia / Entre Calles (Opcional)",
       "neighborhoodPlaceholder": "Col. Vértiz Narvarte",
       "city": "Alcaldía o Municipio *",
-      "state": "Estado / Provincia *",
+      "state": "Estado / Región *",
       "statePlaceholder": "CDMX",
       "postalCode": "Código Postal *",
       "country": "País",
       "mexico": "México (MX)",
-      "cardNumber": "Número de Tarjeta (Visa / Mastercard) *",
+      "cardNumber": "Dígitos de Tarjeta (Visa / Mastercard) *",
       "cardNumberPlaceholder": "4152 0000 0000 0000",
-      "cardHolderName": "Nombre impreso en la tarjeta *",
-      "cardHolderPlaceholder": "Tal como aparece en el plástico",
-      "expiryMonth": "Mes de Vence. (MM) *",
+      "cardHolderName": "Titular de la tarjeta *",
+      "cardHolderPlaceholder": "Exactamente como se lee en el plástico",
+      "expiryMonth": "Mes de Caducidad (MM) *",
       "expiryMonthPlaceholder": "05",
-      "expiryYear": "Año de Vence. (AAAA) *",
+      "expiryYear": "Año de Caducidad (AAAA) *",
       "expiryYearPlaceholder": "2029",
-      "cvv": "Código de Verificación (CVV) *",
+      "cvv": "Código de Seguridad (CVV) *",
       "cvvPlaceholder": "•••"
     },
     "security": {
-      "note": "Pago protegido mediante cifrado seguro"
+      "note": "Operación respaldada mediante encriptación segura"
     },
     "images": {
-      "octanoAlt": "Octano",
-      "securePaymentAlt": "Pago seguro"
+      "octanoAlt": "Plataforma Octano",
+      "securePaymentAlt": "Entorno protegido"
     }
   },
   "hero": {
-    "eyebrow": "Hosting de Alto Rendimiento",
-    "title": "Servicios de",
-    "titleHighlight": "Hosting Profesional",
-    "description": "Soluciones de hosting y servidores con velocidad, estabilidad y seguridad empresarial. Infraestructura tecnológica para emprendedores, desarrolladores y empresas que buscan crecer en línea.",
-    "imageAlt": "Infraestructura de hosting profesional"
+    "eyebrow": "Alojamiento de Alta Eficiencia",
+    "title": "Soluciones de",
+    "titleHighlight": "Hospedaje Web Profesional",
+    "description": "Planes de hosting y servidores enfocados en la velocidad, estabilidad y resguardo corporativo. Infraestructura digital para emprendimientos, programadores y organizaciones que planean expandirse en la web.",
+    "imageAlt": "Estructuras de hospedaje web profesional"
   },
   "contactPage": {
     "metadata": {
-      "title": "Contacto — Cloudza",
-      "description": "Estamos listos para apoyarte. Consultoría a la medida y respuestas rápidas: contáctanos y recibe auxilio técnico inmediato."
+      "title": "Atención al Cliente — Cloudza",
+      "description": "Estamos listos para guiarte. Asesoría personalizada y atención veloz: escríbenos y obtén soporte técnico al instante."
     },
     "hero": {
-      "title": "Estamos listos para apoyarte.",
-      "subtitle": "Consultoría a la medida y respuestas rápidas. Escríbenos y recibe auxilio técnico inmediato."
+      "title": "Estamos listos para ayudarte.",
+      "subtitle": "Asesoramiento a tu medida y atención ágil. Contáctanos para recibir auxilio técnico inmediato."
     },
-    "badge": "Escríbe a Cloudza",
-    "heading": "Comunícate con nuestros especialistas en infraestructura",
-    "description": "Ya sea que busques soporte especializado, servicios de hosting corporativos o asesoría para escalar tus sistemas, nuestro equipo te acompañará en cada paso.",
-    "imageAlt": "Atención al cliente en Cloudza",
+    "badge": "Escribe a Cloudza",
+    "heading": "Ponte en contacto con nuestros ingenieros de infraestructura",
+    "description": "Ya sea que requieras soporte técnico especializado, soluciones de hosting para empresas o asesoría para la expansión de tus servidores, nuestro personal te guiará en cada fase.",
+    "imageAlt": "Equipo de soporte técnico en Cloudza",
     "cards": {
       "liveSupport": {
-        "title": "Chat en Vivo",
-        "value": "Contáctanos cuando quieras para obtener una respuesta al momento."
+        "title": "Chat en Tiempo Real",
+        "value": "Escríbenos en cualquier momento para recibir una respuesta inmediata."
       },
       "email": {
-        "title": "E-mail"
+        "title": "Correo electrónico"
       },
       "phone": {
-        "title": "Teléfono"
+        "title": "Línea telefónica"
       }
     }
   },
   "about": {
     "badge": "Quiénes Somos",
-    "title": "Donde la trayectoria se une con la innovación",
-    "description": "Descubre un servicio excepcional donde nuestra trayectoria se integra a la perfección con los estándares más altos, asegurando potencia y disponibilidad total para tus entornos en internet. Reinventamos el concepto de hosting.",
-    "imageAlt": "El equipo humano de Cloudza"
+    "title": "El punto donde la experiencia converge con la innovación",
+    "description": "Disfruta de una atención preferente donde nuestro recorrido se combina de forma idónea con los criterios técnicos más estrictos, garantizando potencia y uptime absoluto para tus entornos digitales. Redefinimos los servicios de hosting.",
+    "imageAlt": "El personal técnico de Cloudza"
   },
   "customPlan": {
-    "imageAlt": "Logotipo de Cloudza",
+    "imageAlt": "Emblema de Cloudza",
     "hero": {
-      "badge": "Presupuesto a medida",
-      "title": "Concluye tu solicitud personalizada",
-      "description": "Suma de manera sencilla un presupuesto validado a tu carrito y finaliza el proceso de compra de forma encriptada."
+      "badge": "Cotización personalizada",
+      "title": "Finaliza tu orden a la medida",
+      "description": "Añade fácilmente una cotización validada a tu cesta y completa el proceso de pago bajo un entorno seguro."
     },
     "authorized": {
-      "badge": "Sistemas a la medida",
-      "title": "Solicitud validada",
-      "description": "Ingresa tu número de presupuesto autorizado para procesar un pedido especial bajo la tarifa previamente acordada."
+      "badge": "Plataformas a medida",
+      "title": "Presupuesto aprobado",
+      "description": "Introduce el identificador de tu presupuesto autorizado para tramitar un pedido especial respetando el precio pactado previamente."
     },
     "summary": {
-      "title": "Orden especial",
-      "description": "Ajusta los datos de tu presupuesto aprobado e incorpóralo directamente a tu carrito con total confianza."
+      "title": "Pedido especial",
+      "description": "Valida los importes de tu cotización aprobada e incorpórala de manera directa a la cesta con total tranquilidad."
     },
     "form": {
-      "badge": "Presupuesto a medida",
-      "title": "Completa tu orden de hosting a la medida",
+      "badge": "Cotización personalizada",
+      "title": "Completa tu orden de hospedaje a la medida",
       "nameLabel": "Nombre",
       "namePlaceholder": "Juan",
       "lastnameLabel": "Apellido",
       "lastnamePlaceholder": "Pérez",
       "emailLabel": "E-mail",
       "emailPlaceholder": "juan@ejemplo.com",
-      "quoteLabel": "Número de presupuesto",
+      "quoteLabel": "Identificador de presupuesto",
       "quotePlaceholder": "Ref. BF-2026-001",
-      "amountLabel": "Importe total",
+      "amountLabel": "Costo total",
       "amountPlaceholder": "0.00"
     },
     "product": {
-      "name": "Servicio especial - Presupuesto #{quote}",
-      "fullName": "Servicio especial - Presupuesto #{quote}"
+      "name": "Plan especial - Cotización #{quote}",
+      "fullName": "Plan especial - Cotización #{quote}"
     },
     "infoText": {
-      "before": "Estás incorporando el presupuesto especial ",
-      "after": " a tu carrito de compras con el importe previamente validado."
+      "before": "Estás añadiendo el presupuesto personalizado ",
+      "after": " a tu cesta de compras manteniendo el valor acordado previamente."
     },
     "buttons": {
-      "addToCart": "Añadir al carrito",
-      "adding": "Procesando..."
+      "addToCart": "Añadir a la cesta",
+      "adding": "Validando..."
     },
     "errors": {
-      "quoteRequired": "El número de presupuesto es indispensable.",
-      "invalidAmount": "Introduce un importe válido por encima de 0."
+      "quoteRequired": "El identificador de presupuesto es obligatorio.",
+      "invalidAmount": "Ingresa un costo válido superior a 0."
     }
   },
   "store": {
     "hero": {
-      "badge": "Equipamiento profesional",
-      "title": "Servidores web homologados de alto rendimiento",
-      "description": "Explora arquitecturas cloud configuradas bajo estrictos parámetros de estabilidad y protección para empresas emergentes, data centers y programadores."
+      "badge": "Infraestructura profesional",
+      "title": "Servidores web certificados de alta eficiencia",
+      "description": "Descubre plataformas cloud diseñadas bajo estrictas pautas de estabilidad y resguardo para empresas en expansión, centros de datos y desarrolladores."
     },
     "filters": {
-      "title": "Filtros avanzados",
-      "subtitle": "Refina tu búsqueda",
-      "clear": "Limpiar",
-      "categories": "Categorías",
-      "allCategories": "Todas las áreas",
-      "priceRange": "Rango de precios",
+      "title": "Búsqueda avanzada",
+      "subtitle": "Ajustar opciones",
+      "clear": "Restablecer",
+      "categories": "Secciones",
+      "allCategories": "Todos los segmentos",
+      "priceRange": "Límites de costo",
       "min": "Mín",
       "max": "Máx"
     },
     "search": {
-      "placeholder": "Buscar servidores, áreas o herramientas...",
-      "button": "Aplicar filtros"
+      "placeholder": "Buscar servidores, segmentos o recursos...",
+      "button": "Aplicar criterios"
     },
     "sort": {
       "name": "Orden alfabético (A-Z)",
-      "priceAsc": "Precio: menor a mayor",
-      "priceDesc": "Precio: mayor a menor",
-      "newest": "Adiciones recientes"
+      "priceAsc": "Costo: de menor a mayor",
+      "priceDesc": "Costo: de mayor a menor",
+      "newest": "Novedades incorporadas"
     },
     "results": {
-      "showing": "Mostrando",
-      "of": "de un total de",
+      "showing": "Exhibiendo",
+      "of": "de un conjunto de",
       "products": "servicios"
     },
     "empty": {
-      "title": "Sin resultados disponibles",
-      "description": "Prueba cambiando las palabras clave o restableciendo los filtros para explorar otras alternativas.",
-      "button": "Restablecer filtros"
+      "title": "No hay resultados disponibles",
+      "description": "Intenta modificando los términos de búsqueda o eliminando los filtros aplicados para revisar otras opciones.",
+      "button": "Eliminar filtros"
     },
     "product": {
-      "noImage": "Sin imagen de referencia",
-      "new": "Nuevo",
-      "featured": "Destacado",
-      "price": "Precio",
-      "viewDetail": "Saber más"
+      "noImage": "Sin gráfica de referencia",
+      "new": "Novedad",
+      "featured": "Recomendado",
+      "price": "Costo",
+      "viewDetail": "Más información"
     },
     "pagination": {
-      "previous": "Anterior",
-      "next": "Siguiente"
+      "previous": "Previo",
+      "next": "Posterior"
     },
     "tax": "MXN + I.V.A."
   },
   "productDetail": {
-    "loadingTitle": "Cargando especificaciones técnicas",
-    "loadingDescription": "Estamos recopilando los detalles del servicio.",
-    "notFoundTitle": "Servicio no localizado",
-    "notFoundDescription": "El plan solicitado no se encuentra activo o el enlace ingresado es incorrecto.",
-    "backToStore": "Regresar al catálogo",
-    "breadcrumbStore": "Productos",
-    "noImage": "Imagen de muestra no disponible",
-    "new": "Nuevo",
+    "loadingTitle": "Recuperando características técnicas",
+    "loadingDescription": "Estamos organizando la información del servicio.",
+    "notFoundTitle": "Plan no localizado",
+    "notFoundDescription": "La opción solicitada no se encuentra disponible o el enlace utilizado es erróneo.",
+    "backToStore": "Volver a la selección",
+    "breadcrumbStore": "Planes",
+    "noImage": "Imagen demostrativa no disponible",
+    "new": "Novedad",
     "featured": "Destacado",
-    "price": "Precio",
-    "description": "Detalles del servicio",
-    "featureQuality": "Garantía de rendimiento",
-    "featureQualityDesc": "Servidores probados bajo estrictas metodologías técnicas y de desarrollo web.",
-    "featureShipping": "Aprovisionamiento al instante",
-    "featureShippingDesc": "Configuración guiada y despliegue rápido para resguardar la privacidad de tu entorno cloud.",
-    "featureSupport": "Acompañamiento especializado",
-    "featureSupportDesc": "Asistencia técnica directa para corporativos, plataformas y equipos de desarrollo.",
-    "added": "Añadido con éxito",
-    "addToCart": "Agregar al pedido",
-    "cartQuantityText": "Has elegido",
-    "cartQuantityUnits": "suscripción(es) de este plan en tu carrito de compras.",
-    "relatedTitle": "Opciones recomendadas",
-    "relatedDescription": "Otras soluciones similares dentro de la misma categoría.",
-    "viewAll": "Ver todo el catálogo",
-    "noRelatedTitle": "Sin recomendaciones adicionales",
-    "noRelatedDescription": "Por el momento no contamos con otros productos en esta área.",
-    "viewDetail": "Ver especificaciones",
+    "price": "Costo",
+    "description": "Especificaciones del plan",
+    "featureQuality": "Compromiso de estabilidad",
+    "featureQualityDesc": "Servidores evaluados bajo rigurosos estándares de rendimiento y desarrollo técnico.",
+    "featureShipping": "Aprovisionamiento inmediato",
+    "featureShippingDesc": "Orientación en la configuración y despliegue veloz para salvaguardar la privacidad de tu entorno cloud.",
+    "featureSupport": "Asesoramiento especializado",
+    "featureSupportDesc": "Soporte técnico directo enfocado a corporativos, plataformas y equipos de programación.",
+    "added": "Incorporado correctamente",
+    "addToCart": "Agregar a la orden",
+    "cartQuantityText": "Has seleccionado",
+    "cartQuantityUnits": "suscripción(es) de esta alternativa en tu cesta de compras.",
+    "relatedTitle": "Opciones sugeridas",
+    "relatedDescription": "Otras alternativas afines localizadas en la misma sección.",
+    "viewAll": "Revisar todo el catálogo",
+    "noRelatedTitle": "Sin sugerencias adicionales",
+    "noRelatedDescription": "Por el momento no disponemos de más productos en este segmento.",
+    "viewDetail": "Revisar características",
     "tax": "MXN + I.V.A."
   },
   "home": {
     "hero": {
-      "title": "Donde el servicio profesional brinda certeza",
-      "description": "Nos especializamos en la provisión de soluciones de hosting e infraestructura en la nube, seleccionadas bajo rigurosos filtros de calidad y operatividad.",
-      "imageAlt": "Técnico especialista en servidores corporativos"
+      "title": "Donde el soporte experto te brinda tranquilidad",
+      "description": "Nos enfocamos en el suministro de soluciones de hospedaje y plataformas en la nube, seleccionadas bajo exigentes pautas de calidad y desempeño.",
+      "imageAlt": "Especialista enfocado en servidores de nivel empresarial"
     },
     "products": {
-      "title": "Respaldo garantizado en cada nodo",
-      "description": "Planes web y entornos cloud evaluados detalladamente por su eficiencia y altos parámetros.",
-      "button": "Explorar Catálogo"
+      "title": "Certidumbre garantizada en cada nodo",
+      "description": "Planes de hospedaje y ecosistemas cloud evaluados de forma exhaustiva por su rendimiento y altos estándares.",
+      "button": "Revisar el Catálogo"
     },
     "payment": {
-      "title": "Soluciones a tu medida",
-      "description": "Ciertos proyectos demandan un presupuesto personalizado por su escala, volumen de transferencia o características particulares.",
-      "contactButton": "Escríbenos",
-      "payButton": "Pagar",
-      "imageAlt": "Personal de soporte técnico"
+      "title": "Soluciones diseñadas a tu medida",
+      "description": "Ciertos requerimientos exigen una cotización personalizada debido a su envergadura, tráfico de red o parámetros especiales.",
+      "contactButton": "Ponte en contacto",
+      "payButton": "Liquidar",
+      "imageAlt": "Personal de atención especializada"
     },
     "contact": {
-      "title": "Estamos listos para atenderte",
-      "description": "Si buscas un socio tecnológico confiable, con enfoque corporativo y tiempos de atención mínimos, cuenta con nuestro apoyo.",
-      "phoneDescription": "Atención directa para cotizaciones, consultoría y soporte preventa.",
-      "button": "Escríbenos",
-      "imageAlt": "Ingeniero experto en soluciones hosting"
+      "title": "Estamos listos para guiarte",
+      "description": "Si requieres un socio de tecnología sólido, con visión corporativa y tiempos de respuesta mínimos, cuentas con nuestro respaldo.",
+      "phoneDescription": "Contacto inmediato para cotizaciones, asesorías y dudas de preventa.",
+      "button": "Ponte en contacto",
+      "imageAlt": "Ingeniero capacitado en soluciones de hospedaje"
     }
   },
   "features": {
-    "badge": "Atributos",
-    "title": "Servicios de hosting de alta gama adaptados a ti",
+    "badge": "Cualidades",
+    "title": "Servicios de hosting premium configurados para ti",
     "items": {
       "uptime": {
-        "title": "99.99% de Disponibilidad",
-        "desc": "Infraestructura estable con un 99.99% de permanencia en línea para asegurar tu visibilidad digital."
+        "title": "99.99% de Uptime",
+        "desc": "Infraestructura sólida con un 99.99% de permanencia activa para resguardar tu disponibilidad web."
       },
       "security": {
-        "title": "Seguridad de Nivel Superior",
-        "desc": "Monitoreo permanente que protege tu sitio en internet mediante estrategias proactivas."
+        "title": "Seguridad de Rango Superior",
+        "desc": "Monitoreo constante que blinda tus plataformas mediante soluciones preventivas."
       },
       "scalability": {
-        "title": "Crecimiento sin Restricciones",
-        "desc": "Expansión modular para que tus sistemas alcancen nuevos niveles de forma óptima."
+        "title": "Evolución sin Limitantes",
+        "desc": "Expansión por módulos para que tus servidores consigan nuevas metas de forma eficiente."
       },
       "backups": {
-        "title": "Respaldos Automatizados",
-        "desc": "Copias de seguridad continuas para asegurar que tus datos estén a salvo y disponibles ante incidentes."
+        "title": "Respaldos Programados",
+        "desc": "Copias de seguridad recurrentes para garantizar que tus datos permanezcan protegidos ante cualquier percance."
       },
       "bandwidth": {
-        "title": "Ancho de Banda sin Límites",
-        "desc": "Flujo de datos ilimitado para una navegación fluida en todo momento."
+        "title": "Tráfico de Datos Ilimitado",
+        "desc": "Flujo de información sin restricciones para ofrecer una experiencia fluida siempre."
       },
       "ssl": {
-        "title": "Certificados SSL sin Costo",
-        "desc": "Privacidad mejorada con protocolos SSL incluidos, generando certeza en tus visitas."
+        "title": "Protocolos SSL de Cortesía",
+        "desc": "Protección mejorada mediante certificados SSL incorporados, brindando confianza a tus visitas."
       }
     }
   },
   "footer": {
-    "logoAlt": "Aceptamos tarjetas Visa y Mastercard",
-    "brand": "Alojamiento Cloud",
-    "description": "Infraestructura ágil, robusta y blindada pensada para portales interactivos, aplicaciones web y proyectos corporativos.",
+    "logoAlt": "Admitimos pagos con tarjetas Visa y Mastercard",
+    "brand": "Hospedaje Cloud",
+    "description": "Infraestructura ágil, consistente y segura desarrollada para plataformas interactivas, entornos web y proyectos empresariales.",
     "address": "Av. Homero 205, Piso 10, Col. Polanco V Sección, Alcaldía Miguel Hidalgo, CP 11560, Ciudad de México",
-    "phone": "Teléfono de contacto:",
-    "email": "Correo electrónico:",
-    "navigationTitle": "Secciones",
-    "legalTitle": "Políticas",
-    "payments": "Métodos de pago",
-    "paymentsAlt": "Tarjetas Visa y Mastercard aceptadas",
-    "copyright": "© 2025 Cloudza. Todos los derechos reservados.",
-    "bottomText": "Desarrollado para servicios cloud de alta eficiencia.",
+    "phone": "Línea de contacto:",
+    "email": "Dirección de correo:",
+    "navigationTitle": "Páginas",
+    "legalTitle": "Políticas legales",
+    "payments": "Formas de pago",
+    "paymentsAlt": "Tarjetas bancarias Visa y Mastercard admitidas",
+    "copyright": "© 2025 Cloudza. Reservados todos los derechos.",
+    "bottomText": "Desarrollado para entornos cloud de alto rendimiento.",
     "navigation": {
       "home": "Inicio",
       "plans": "Planes",
@@ -701,78 +701,78 @@
       "contact": "Contacto"
     },
     "legal": {
-      "privacy": "Política de privacidad",
-      "terms": "Términos y Condiciones",
-      "returns": "Política de devoluciones y reembolsos"
+      "privacy": "Aviso de privacidad",
+      "terms": "Condiciones del servicio",
+      "returns": "Política de devoluciones y cancelaciones"
     }
   },
   "purchaseEmail": {
     "errors": {
-      "incompleteOrder": "Información de orden incompleta."
+      "incompleteOrder": "Datos de la transacción incompletos."
     },
     "fallbacks": {
-      "product": "Producto",
-      "productDescription": "Servicio premium de infraestructura digital."
+      "product": "Servicio",
+      "productDescription": "Solución premium de infraestructura digital."
     },
     "header": {
-      "title": "Compra confirmada",
-      "description": "Tu pedido de hosting ha sido procesado correctamente."
+      "title": "Transacción validada",
+      "description": "Tu solicitud de hospedaje web ha sido procesada de manera correcta."
     },
     "product": {
-      "quantity": "Cantidad",
-      "total": "Total"
+      "quantity": "Volumen",
+      "total": "Costo total"
     },
     "customer": {
-      "order": "Orden",
-      "thanks": "Gracias por tu compra,",
-      "processing": "Tu pago ha sido verificado correctamente y tu orden ya está siendo procesada por nuestro equipo de infraestructura.",
-      "totalPaid": "Total pagado",
-      "address": "Dirección asignada",
-      "zip": "CP"
+      "order": "Pedido",
+      "thanks": "Agradecemos tu preferencia,",
+      "processing": "Tu cobro ha sido verificado correctamente y tu pedido ya está siendo configurado por nuestro departamento de infraestructura.",
+      "totalPaid": "Total liquidado",
+      "address": "Dirección registrada",
+      "zip": "C.P."
     },
     "business": {
-      "newOrder": "Nueva orden ecommerce",
-      "processed": "procesados correctamente",
-      "customerInfo": "Información del cliente",
+      "newOrder": "Nueva venta comercio electrónico",
+      "processed": "tramitados con éxito",
+      "customerInfo": "Datos del cliente",
       "name": "Nombre:",
-      "email": "Correo:",
+      "email": "E-mail:",
       "phone": "Teléfono:",
-      "notes": "Notas:",
-      "none": "Ninguna"
+      "notes": "Comentarios adicionales:",
+      "none": "Ninguno"
     },
     "subjects": {
-      "customer": "Confirmación de orden",
-      "business": "NUEVA ORDEN"
+      "customer": "Confirmación de pedido",
+      "business": "NUEVO PEDIDO RECIBIDO"
     }
   },
   "contactEmail": {
     "errors": {
-      "missingFields": "Faltan campos requeridos (nombre, email, mensaje)"
+      "missingFields": "Se requieren campos obligatorios (nombre, email, comentarios)"
     },
     "header": {
-      "description": "Infraestructura de alto rendimiento, sistemas cloud escalables y soluciones digitales de nivel empresarial."
+      "description": "Plataformas de alta eficiencia, sistemas cloud configurables y soluciones de TI corporativas."
     },
     "footer": {
-      "copy": "Cloudza © 2026 — Infraestructura para negocios modernos.",
-      "contact": "Contacto:"
+      "copy": "Cloudza © 2026 — Infraestructura orientada a empresas modernas.",
+      "contact": "Contacto técnico:"
     },
     "internal": {
-      "badge": "NUEVA SOLICITUD DE CONTACTO",
-      "title": "Nueva consulta recibida desde el sitio web",
-      "clientName": "Nombre del cliente",
+      "badge": "NUEVO REQUERIMIENTO DE CONTACTO",
+      "title": "Nueva interacción registrada desde la plataforma web",
+      "clientName": "Nombre del interesado",
       "emailAddress": "Correo electrónico",
-      "messageContent": "Contenido del mensaje"
+      "messageContent": "Detalles del mensaje"
     },
     "user": {
-      "greeting": "Hola,",
-      "line1": "Tu mensaje ha sido recibido correctamente.",
-      "line2": "Nuestro equipo de Cloudza ya está revisando tu solicitud y te responderemos lo antes posible.",
-      "messageTitle": "Tu mensaje",
-      "button": "Visitar Cloudza"
+      "greeting": "Estimado usuario,",
+      "line1": "Tu solicitud ha sido entregada de forma correcta.",
+      "line2": "El personal técnico de Cloudza se encuentra analizando tus requerimientos y te contactaremos a la brevedad.",
+      "messageTitle": "Copia de tus comentarios",
+      "button": "Ir a Cloudza"
     },
     "subjects": {
-      "internal": "Nuevo mensaje del sitio web:",
-      "user": "Recibimos tu mensaje - Cloudza"
+      "internal": "Nuevo requerimiento desde la web:",
+      "user": "Hemos recibido tus comentarios - Cloudza"
     }
   }
 }
