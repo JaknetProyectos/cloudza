@@ -1,0 +1,778 @@
+{
+  "header": {
+    "logoAlt": "Cloudza logo",
+    "brandSubtitle": "Digital solutions",
+    "cart": "Cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "nav": {
+      "home": "Start here",
+      "about": "About us",
+      "faq": "FAQ",
+      "contact": "Let's talk"
+    }
+  },
+  "cloudzaContactForm": {
+    "badge": "Professional contact",
+    "title": "Tell us about your project",
+    "description": "Tell us about your project, infrastructure, or technical needs. Our team will respond with a clear, professional, and scalable solution.",
+    "form": {
+      "nameLabel": "Full name",
+      "namePlaceholder": "Your full name",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "your@email.com",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "Enter the subject",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us how we can help you"
+    },
+    "buttons": {
+      "send": "Send message",
+      "sending": "Sending...",
+      "sent": "Message sent"
+    },
+    "messages": {
+      "success": "Your message was sent successfully.",
+      "error": "An error occurred while sending the message."
+    }
+  },
+  "cloudzaFaqPage": {
+    "hero": {
+      "badge": "Frequently Asked Questions",
+      "title": "Find quick answers to the most common questions about our services",
+      "description": "We clearly explain the most important topics so you have all the information before choosing your service."
+    },
+    "faqs": {
+      "0": {
+        "question": "Do prices include taxes?",
+        "answer": "No, all prices are PLUS VAT (16%), which is automatically added in the shopping cart. At checkout, you will see a complete breakdown including the base price, VAT, and total amount to pay."
+      },
+      "1": {
+        "question": "What is the difference between a VPS and a dedicated server?",
+        "answer": "A VPS (Virtual Private Server) shares physical resources with other users on the same server, although each one has its own isolated virtualized environment. A dedicated server provides exclusive hardware entirely for you, without shared resources, guaranteeing maximum performance, full control, and 100% dedicated resources."
+      },
+      "2": {
+        "question": "Can I upgrade my plan later?",
+        "answer": "Yes, absolutely. All our plans are scalable. You can increase resources (RAM, storage, CPU) whenever your project requires it without service interruptions. Upgrades are performed easily from your control panel, and you only pay the prorated difference for the current billing period."
+      },
+      "3": {
+        "question": "Do plans include technical support?",
+        "answer": "Yes, all our plans include specialized technical support and constant monitoring of your service. Our team is available to help with server-related issues, configurations, and infrastructure performance. Support is offered through tickets, live chat, and email."
+      },
+      "4": {
+        "question": "What payment methods do you accept?",
+        "answer": "We currently accept Visa and Mastercard credit and debit cards. Payments are securely processed through our encrypted platform. All payments must be made in advance according to the billing cycle you choose (monthly, quarterly, semi-annually, or annually)."
+      },
+      "5": {
+        "question": "Do you offer free migration from my current provider?",
+        "answer": "Yes, we offer basic migration assistance at no cost for shared hosting and VPS plans. Our technical team will help transfer your website, databases, and email accounts from your current provider. For more complex migrations or dedicated servers, we can evaluate the case and provide a custom quote."
+      },
+      "6": {
+        "question": "Do plans include a free SSL certificate?",
+        "answer": "Yes, all our hosting plans include a free SSL certificate (Let’s Encrypt) that renews automatically. This ensures your website has a secure HTTPS connection. If you need a premium SSL certificate with a higher validation level, we also offer paid options."
+      },
+      "7": {
+        "question": "What is the technical support response time?",
+        "answer": "Our average first response time is 1-2 hours for standard tickets and 30 minutes or less for critical emergencies. Support is available 24/7, 365 days a year. Resolution times depend on the complexity of the issue, but we strive to resolve most cases within 24 hours."
+      },
+      "8": {
+        "question": "Do you perform backups of my data?",
+        "answer": "Yes, we perform automatic daily backups of all data on our servers. However, these backups are provided as a courtesy and do not replace your own backups. We recommend maintaining independent backups of your critical content. You can download backups from your control panel at any time."
+      },
+      "9": {
+        "question": "Do you offer a money-back guarantee?",
+        "answer": "Yes, we offer a 30-day money-back guarantee on new shared hosting and VPS plans. If you are not satisfied with the service during the first 30 days, you may request a full refund. Dedicated servers, domains, and additional services are not covered by this guarantee. Please review our Refund Policy for more details."
+      }
+    }
+  },
+  "cloudzaContactPage": {
+    "metadata": {
+      "title": "Contact | Cloudza",
+      "description": "Get in touch with Cloudza to resolve questions, request guidance, or receive specialized support."
+    },
+    "hero": {
+      "title": "Let’s talk about your project",
+      "subtitle": "We’re ready to help you with hosting solutions, infrastructure, and technology services tailored to your needs."
+    }
+  },
+  "cloudzaAbout": {
+    "hero": {
+      "title": "Discover the essence that drives us and the values guiding every decision we make",
+      "description": "We build reliable, secure, and scalable infrastructure so your project can move forward with clarity, speed, and real support."
+    },
+    "essence": {
+      "eyebrow": "Our essence",
+      "title": "Technology designed to support you, not slow you down.",
+      "description1": "At the heart of Cloudza is a genuine commitment to the digital success of every client. We believe technology should be an ally, not an obstacle.",
+      "description2": "Our philosophy is built on creating long-lasting relationships based on trust, transparency, and mutual growth."
+    },
+    "pillars": {
+      "mission": {
+        "title": "Mission",
+        "description": "To drive the digital growth of individuals and businesses through reliable, secure, and scalable technology solutions, providing human and close support at every stage."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "To become a benchmark in hosting and cloud services, recognized for innovation, service quality, and commitment to the success of every client."
+      }
+    },
+    "values": {
+      "eyebrow": "Values that define us",
+      "title": "Principles that guide every decision.",
+      "items": {
+        "commitment": {
+          "title": "Commitment",
+          "description": "Personalized attention and results-oriented focus."
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Cutting-edge technology and continuous improvement."
+        },
+        "transparency": {
+          "title": "Transparency",
+          "description": "Clear communication and fair pricing."
+        },
+        "reliability": {
+          "title": "Reliability",
+          "description": "Solid infrastructure and constant support."
+        },
+        "growth": {
+          "title": "Shared growth",
+          "description": "Our clients’ success is our success."
+        }
+      }
+    },
+    "timeline": {
+      "eyebrow": "Our process",
+      "title": "A clear, precise, and guided journey.",
+      "steps": {
+        "understanding": {
+          "title": "Deep understanding",
+          "description": "We actively listen to understand your specific needs and goals."
+        },
+        "solutions": {
+          "title": "Customized solutions",
+          "description": "We design infrastructures perfectly tailored to your project."
+        },
+        "implementation": {
+          "title": "Careful implementation",
+          "description": "We deploy your solution with meticulous attention to every detail."
+        },
+        "support": {
+          "title": "Continuous support",
+          "description": "We support your growth with proactive and specialized assistance."
+        }
+      }
+    }
+  },
+  "cloudzaFooter": {
+    "description": "High-performance technology infrastructure for businesses, developers, and projects seeking stability, speed, and enterprise-grade security.",
+    "securePayments": "Secure payments",
+    "cardsAlt": "Visa and Mastercard",
+    "legal": {
+      "title": "Legal information",
+      "terms": "Terms and Conditions",
+      "privacy": "Privacy Notice",
+      "refunds": "Refund and Cancellation Policy"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressValue": "205 Homero Avenue, 10th Floor, Polanco V Section, Miguel Hidalgo Borough, ZIP Code 11560, Mexico City"
+    },
+    "copyright": "© 2025 Cloudza. All rights reserved.",
+    "madeInMexico": "Made with ❤️ in Mexico"
+  },
+  "cloudzaCta": {
+    "eyebrow": "Professional infrastructure",
+    "title": "Ready to power your project?",
+    "description": "You don’t just get a service, you get an optimized and reliable experience for your online projects.",
+    "contactButton": "Contact us now",
+    "plansButton": "View plans"
+  },
+  "cloudzaWhyChooseUs": {
+    "eyebrow": "Why choose Cloudza",
+    "title": "World-class technology",
+    "premiumInfrastructure": "Premium infrastructure",
+    "features": {
+      "security": {
+        "title": "Enterprise Security",
+        "badge": "Maximum protection",
+        "description": "Advanced DDoS protection, continuous monitoring, and automatic backups in secure locations."
+      },
+      "support": {
+        "title": "Specialized Support",
+        "badge": "Expert team",
+        "description": "Real, timely, and hassle-free technical assistance whenever you need it most."
+      },
+      "scalability": {
+        "title": "True Scalability",
+        "badge": "Grow without limits",
+        "description": "Flexible plans that scale alongside your project without interruptions or complex migrations."
+      },
+      "trust": {
+        "title": "Trusted Experience",
+        "badge": "Certified trust",
+        "description": "Cutting-edge technology backed by years of experience and international certifications."
+      },
+      "performance": {
+        "title": "Guaranteed Performance",
+        "badge": "Extreme speed",
+        "description": "Modern servers with NVMe SSD storage and high-speed connectivity for ultra-fast loading times."
+      }
+    }
+  },
+  "productCard": {
+    "includes": "Includes",
+    "requestQuote": "Request quote",
+    "addToCart": "Add to cart",
+    "recommended": "Recommended"
+  },
+  "planModal": {
+    "back": "Back to plans",
+    "badge": "Enterprise Hosting",
+    "startingAt": "Starting at",
+    "quantity": "Quantity",
+    "total": "Total",
+    "addToCart": "Add to cart",
+    "features": {
+      "badge": "Included Features",
+      "title": "Designed for production infrastructure"
+    }
+  },
+  "contactForm": {
+    "badge": "We are here to help you.",
+    "title": "Contact point",
+    "form": {
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email address",
+      "messagePlaceholder": "Message"
+    },
+    "messages": {
+      "success": "Message sent successfully.",
+      "error": "An error occurred while sending the message."
+    },
+    "buttons": {
+      "sending": "Sending...",
+      "sent": "Message sent",
+      "send": "Send"
+    }
+  },
+  "storePage": {
+    "hero": {
+      "title": "Plans and pricing",
+      "subtitle": "Give your website the excellence it deserves — choose a hosting that always delivers the best!"
+    },
+    "plans": {
+      "badge": "Hosting plans",
+      "title": "Infrastructure designed for performance and scalability",
+      "description": "Choose the hosting solution that best suits your project, whether you are launching a small website or scaling enterprise infrastructure."
+    },
+    "flexibility": {
+      "badge": "Total flexibility",
+      "title": "Create a hosting solution tailored to your needs",
+      "description": "Customize your infrastructure, resources, and hosting environment according to your exact requirements. Flexible solutions built to grow.",
+      "button": "Get a quote here",
+      "note": "Need custom infrastructure? Our team can help you design the ideal hosting environment."
+    }
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "After the Cloud — Cloudza",
+      "description": "Who we are and why we do it. Give your website the excellence it deserves: reliable, secure, and high-performance hosting."
+    },
+    "hero": {
+      "title": "Who we are and why we do it",
+      "subtitle": "Give your website the excellence it deserves: reliable, secure, and high-performance hosting that drives your digital growth."
+    },
+    "badge": "About Cloudza",
+    "sectionTitle": "Infrastructure designed for modern digital businesses",
+    "intro": {
+      "first": "We help companies, developers, and online projects build reliable digital experiences through scalable, secure, and high-performance hosting solutions.",
+      "second": "Our focus is not only on infrastructure, but also on long-term stability, technical excellence, and real support at every stage of growth."
+    },
+    "values": {
+      "mission": {
+        "title": "Our Mission",
+        "desc": "To revolutionize the digital landscape by offering robust hosting solutions that allow companies and projects to grow with innovation, security, and stability."
+      },
+      "role": {
+        "title": "Our Role",
+        "desc": "To be the technological backbone of companies worldwide, providing state-of-the-art infrastructure, maximum reliability, and constant support so that each client can thrive in the digital environment."
+      },
+      "value": {
+        "title": "Our Value",
+        "desc": "We focus on offering real value: optimized performance, advanced security, and personalized support. Our commitment is clear: to drive the success of each client in their digital projects."
+      }
+    },
+    "cta": {
+      "heading": "Start your digital success story with us",
+      "button": "Start now"
+    }
+  },
+  "cta": {
+    "badge": "Are you ready?",
+    "heading": "Start your digital success story here",
+    "description": "Launch your next project with secure infrastructure, high-performance servers, and scalable hosting solutions.",
+    "buttonLabel": "Get Started",
+    "panel": {
+      "infrastructureStatus": "Infrastructure Status",
+      "operational": "Operational",
+      "stats": {
+        "uptime": "Availability",
+        "response": "Response",
+        "deployments": "Deployments",
+        "security": "Security",
+        "fast": "Fast",
+        "active": "Active"
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Plans",
+    "title": "Plans and services",
+    "description": "Serious, modern, and scalable solutions for hosting, servers, and specialized services."
+  },
+  "faq": {
+    "badge": "Have any questions?",
+    "title": "Frequently Asked Questions",
+    "description": "Everything you need to know about our hosting infrastructure, deployment process, and support services.",
+    "items": [
+      {
+        "q": "What type of hosting do you offer?",
+        "a": "We offer shared hosting, VPS, dedicated servers, and cloud hosting solutions tailored to different types of projects."
+      },
+      {
+        "q": "Is technical support available 24/7?",
+        "a": "Yes, our support team is available 24 hours a day, 7 days a week to help you whenever you need it."
+      },
+      {
+        "q": "Do you include a free SSL certificate?",
+        "a": "Yes, all our plans include free SSL certificates to improve your website's security."
+      },
+      {
+        "q": "Can I scale my plan later on?",
+        "a": "Sure, you can easily upgrade your plan as your project grows and needs more resources."
+      },
+      {
+        "q": "Do you perform automatic backups?",
+        "a": "Yes, we perform automatic backups to protect your information and facilitate data recovery."
+      },
+      {
+        "q": "How fast is the deployment process?",
+        "a": "Our system allows instant deployments so you can get your project up and running in just a few minutes."
+      }
+    ]
+  },
+  "globalTrust": {
+    "badge": "Global Trust",
+    "title": "Secure digital presence",
+    "description": "With our high-performance infrastructure, we guarantee a reliable environment for your website to operate without interruptions, protected by the most advanced security technology and backed by a team available whenever you need it.",
+    "cta": "Services"
+  },
+  "cartPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "summary": "1. Details",
+      "shippingPayment": "2. Shipping and Payment Methods"
+    },
+    "success": {
+      "title": "Payment Processed Successfully!",
+      "description": "Your transaction has been approved. The cloud environment for your hosting plan is already being configured for activation.",
+      "paymentReference": "Payment ID:",
+      "paidAmount": "Total Paid:",
+      "transactionStatus": "Transaction Status:",
+      "approved": "APPROVED",
+      "backToCatalog": "Back to Catalog"
+    },
+    "empty": {
+      "title": "Your shopping cart is empty",
+      "description": "We did not find any selected hosting services in your current shopping session.",
+      "goToStore": "Go to Catalog"
+    },
+    "order": {
+      "title": "Items in your order",
+      "clear": "Remove Plans"
+    },
+    "financial": {
+      "title": "Financial Breakdown",
+      "couponPlaceholder": "Discount coupon",
+      "applyCoupon": "Validate",
+      "appliedCoupon": "Code {code} (-{discount}%)",
+      "remove": "Remove",
+      "couponInvalid": "The promotional code is invalid or has expired.",
+      "subtotal": "Hosting Subtotal:",
+      "discount": "Discount Applied:",
+      "netTotal": "Total Amount to Pay:",
+      "tax": "VAT {tax}"
+    },
+    "actions": {
+      "proceedToPayment": "Continue to Payment",
+      "processing": "Verifying Funds through Octano...",
+      "payAmount": "Pay {amount}",
+      "backToCart": "Edit order / Add coupon"
+    },
+    "errors": {
+      "declined": "The transaction was rejected by the banking institution.",
+      "connection": "A communication failure with the payment platform was detected."
+    },
+    "metadata": {
+      "couponApplied": "Active promotional code",
+      "standardSale": "Standard digital purchase"
+    },
+    "form": {
+      "buyerTitle": "Billing / Customer Information",
+      "addressTitle": "Contact and Activation Data",
+      "paymentTitle": "Protected Payment Gateway",
+      "firstName": "First Name(s) *",
+      "lastName": "Last Name(s) *",
+      "email": "Email *",
+      "phone": "Cell Phone (10 digits) *",
+      "company": "Company / Organization Name (Optional)",
+      "streetAddress": "Street, Exterior No., and Interior No. *",
+      "streetAddressPlaceholder": "Av. Universidad 450, Int 4",
+      "neighborhood": "Neighborhood / Intersections (Optional)",
+      "neighborhoodPlaceholder": "Col. Vértiz Narvarte",
+      "city": "Borough or City *",
+      "state": "State / Entity *",
+      "statePlaceholder": "CDMX",
+      "postalCode": "ZIP / Postal Code *",
+      "country": "Country",
+      "mexico": "Mexico (MX)",
+      "cardNumber": "Card Digits (Visa / Mastercard) *",
+      "cardNumberPlaceholder": "4152 0000 0000 0000",
+      "cardHolderName": "Cardholder Full Name *",
+      "cardHolderPlaceholder": "As read on the plastic",
+      "expiryMonth": "Exp. Month (MM) *",
+      "expiryMonthPlaceholder": "05",
+      "expiryYear": "Exp. Year (YYYY) *",
+      "expiryYearPlaceholder": "2029",
+      "cvv": "Security Code (CVV) *",
+      "cvvPlaceholder": "•••"
+    },
+    "security": {
+      "note": "Securely protected transaction"
+    },
+    "images": {
+      "octanoAlt": "Octano",
+      "securePaymentAlt": "Secure transaction"
+    }
+  },
+  "hero": {
+    "eyebrow": "High Performance Hosting",
+    "title": "Professional",
+    "titleHighlight": "Hosting Services",
+    "description": "Hosting and server solutions with speed, stability, and enterprise-grade security. Technology infrastructure for entrepreneurs, developers, and businesses looking to grow online.",
+    "imageAlt": "Professional hosting infrastructure"
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contact — Cloudza",
+      "description": "We are here to help you. Personalized advice and immediate solutions: contact us and get help when you need it."
+    },
+    "hero": {
+      "title": "We are here to help you.",
+      "subtitle": "Personalized advice and immediate solutions. Contact us and get help when you need it."
+    },
+    "badge": "Contact Cloudza",
+    "heading": "Get in touch with our infrastructure team",
+    "description": "Whether you need technical assistance, custom hosting solutions, or guidance to scale your infrastructure, our team is ready to help you at every stage.",
+    "imageAlt": "Cloudza customer support",
+    "cards": {
+      "liveSupport": {
+        "title": "Live Support",
+        "value": "Write to us at any time for immediate assistance."
+      },
+      "email": {
+        "title": "Email"
+      },
+      "phone": {
+        "title": "Phone"
+      }
+    }
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Where experience meets excellence",
+    "description": "Experience an unparalleled service where our experience combines perfectly with excellence, guaranteeing maximum performance and reliability for your digital projects. Discover hosting redefined.",
+    "imageAlt": "The Cloudza team"
+  },
+  "customPlan": {
+    "imageAlt": "Cloudza Logo",
+    "hero": {
+      "badge": "Custom quotation",
+      "title": "Complete your custom order",
+      "description": "Easily add an approved quotation to your cart and continue with the payment process securely."
+    },
+    "authorized": {
+      "badge": "Custom infrastructure",
+      "title": "Authorized order",
+      "description": "Use your approved quotation number to generate a custom order with the previously agreed price."
+    },
+    "summary": {
+      "title": "Custom order",
+      "description": "Configure your approved custom quotation and add it directly to your cart securely."
+    },
+    "form": {
+      "badge": "Custom quotation",
+      "title": "Complete your custom hosting order",
+      "nameLabel": "Name",
+      "namePlaceholder": "Juan",
+      "lastnameLabel": "Last Name",
+      "lastnamePlaceholder": "Pérez",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "juan@ejemplo.com",
+      "quoteLabel": "Quotation number",
+      "quotePlaceholder": "Ex. BF-2026-001",
+      "amountLabel": "Total amount",
+      "amountPlaceholder": "0.00"
+    },
+    "product": {
+      "name": "Special order - Quotation #{quote}",
+      "fullName": "Special order - Quotation #{quote}"
+    },
+    "infoText": {
+      "before": "You are adding the custom quotation ",
+      "after": " to your cart with the previously authorized amount."
+    },
+    "buttons": {
+      "addToCart": "Add to cart",
+      "adding": "Adding..."
+    },
+    "errors": {
+      "quoteRequired": "The quotation number is required.",
+      "invalidAmount": "Enter a valid amount greater than 0."
+    }
+  },
+  "store": {
+    "hero": {
+      "badge": "Professional supplies",
+      "title": "Certified and highly functional web servers",
+      "description": "Review selected cloud configurations with resistance and security metrics for startups, data centers, and developers."
+    },
+    "filters": {
+      "title": "Advanced search",
+      "subtitle": "Filter your results",
+      "clear": "Clear",
+      "categories": "Sections",
+      "allCategories": "All sections",
+      "priceRange": "Price range",
+      "min": "Min",
+      "max": "Max"
+    },
+    "search": {
+      "placeholder": "Search servers, sections, or resources...",
+      "button": "Filter"
+    },
+    "sort": {
+      "name": "Alphabetical (A-Z)",
+      "priceAsc": "Price: lowest first",
+      "priceDesc": "Price: highest first",
+      "newest": "Newest"
+    },
+    "results": {
+      "showing": "Showing",
+      "of": "of a total of",
+      "products": "items"
+    },
+    "empty": {
+      "title": "No matches found",
+      "description": "Try editing the search terms or clearing the filters to see more options.",
+      "button": "Clear filters"
+    },
+    "product": {
+      "noImage": "Image not available",
+      "new": "New",
+      "featured": "Featured",
+      "price": "Cost",
+      "viewDetail": "View more"
+    },
+    "pagination": {
+      "previous": "Back",
+      "next": "Next"
+    },
+    "tax": "MXN + V.A.T."
+  },
+  "productDetail": {
+    "loadingTitle": "Opening technical sheet",
+    "loadingDescription": "We are organizing the item information.",
+    "notFoundTitle": "Item not found",
+    "notFoundDescription": "The requested product is not in inventory or the URL address is incorrect.",
+    "backToStore": "Back to catalog",
+    "breadcrumbStore": "Catalog",
+    "noImage": "Photograph not available",
+    "new": "New",
+    "featured": "Featured",
+    "price": "Cost",
+    "description": "Item sheet",
+    "featureQuality": "Technological guarantee",
+    "featureQualityDesc": "Infrastructure validated under rigorous technical and web engineering guidelines.",
+    "featureShipping": "Immediate provisioning",
+    "featureShippingDesc": "Automated deployment and specialized configuration to protect each cloud environment.",
+    "featureSupport": "Expert advice",
+    "featureSupportDesc": "Personalized support for companies, web platforms, and developers.",
+    "added": "Successfully added",
+    "addToCart": "Add to cart",
+    "cartQuantityText": "You have selected",
+    "cartQuantityUnits": "license(s) of this service in your shopping cart.",
+    "relatedTitle": "Similar items",
+    "relatedDescription": "Other alternatives from the same product family.",
+    "viewAll": "Show all inventory",
+    "noRelatedTitle": "No similar suggestions",
+    "noRelatedDescription": "For now, we do not have other products within this same section.",
+    "viewDetail": "View details",
+    "tax": "MXN + V.A.T."
+  },
+  "home": {
+    "hero": {
+      "title": "Where professionalism generates peace of mind",
+      "description": "We are a company dedicated to the commercialization of hosting services and cloud infrastructure, chosen through strict control and functionality standards.",
+      "imageAlt": "Professional server specialist"
+    },
+    "products": {
+      "title": "Guarantee reflected in each server",
+      "description": "Web plans and cloud environments rigorously filtered for their utility and high standards.",
+      "button": "View Catalog"
+    },
+    "payment": {
+      "title": "Tailored payments",
+      "description": "Certain environments need a custom budget due to their dimensions, volume of resources, or special requirements.",
+      "contactButton": "Write to us",
+      "payButton": "Pay",
+      "imageAlt": "Technical support staff"
+    },
+    "contact": {
+      "title": "We are here to serve you",
+      "description": "If you require a serious provider with a professional profile and fast response times, count on us.",
+      "phoneDescription": "Direct line for budget quotes, advice, and after-sales support.",
+      "button": "Write to us",
+      "imageAlt": "Hosting specialist engineer"
+    }
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Hosting excellence tailored to your needs",
+    "items": {
+      "uptime": {
+        "title": "99.99% Availability",
+        "desc": "Reliable hosting with 99.99% availability, ensuring your site is always online."
+      },
+      "security": {
+        "title": "Advanced Security",
+        "desc": "State-of-the-art protection that safeguards your online presence with proactive measures."
+      },
+      "scalability": {
+        "title": "Unlimited Scalability",
+        "desc": "Growth without limits so that your project reaches new heights efficiently."
+      },
+      "backups": {
+        "title": "Automatic Backups",
+        "desc": "Continuous backup of your information to keep your site protected and available in the face of any unexpected event."
+      },
+      "bandwidth": {
+        "title": "Unlimited Bandwidth",
+        "desc": "Unrestricted traffic for optimal performance at all times."
+      },
+      "ssl": {
+        "title": "Free SSL Certificate",
+        "desc": "Greater security with integrated SSL, providing confidence to your users."
+      }
+    }
+  },
+  "footer": {
+    "logoAlt": "Visa and Mastercard accepted",
+    "brand": "Cloud Hosting",
+    "description": "Fast, reliable, and secure infrastructure designed for modern websites, applications, and digital businesses.",
+    "address": "Av. Homero 205, Piso 10, Col. Polanco V Sección, Alcaldía Miguel Hidalgo, CP 11560, Ciudad de México",
+    "phone": "Phone:",
+    "email": "Email:",
+    "navigationTitle": "Navigation",
+    "legalTitle": "Legal",
+    "payments": "Payments",
+    "paymentsAlt": "Visa and Mastercard accepted",
+    "copyright": "© 2025 Cloudza. All rights reserved.",
+    "bottomText": "Designed for high-performance cloud hosting.",
+    "navigation": {
+      "home": "Home",
+      "plans": "Plans",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "returns": "Returns and Refund Policy"
+    }
+  },
+  "purchaseEmail": {
+    "errors": {
+      "incompleteOrder": "Incomplete order information."
+    },
+    "fallbacks": {
+      "product": "Product",
+      "productDescription": "Premium digital infrastructure service."
+    },
+    "header": {
+      "title": "Purchase confirmed",
+      "description": "Your hosting order has been successfully processed."
+    },
+    "product": {
+      "quantity": "Quantity",
+      "total": "Total"
+    },
+    "customer": {
+      "order": "Order",
+      "thanks": "Thanks for your purchase,",
+      "processing": "Your payment has been successfully verified and your order is now being processed by our infrastructure team.",
+      "totalPaid": "Total paid",
+      "address": "Assigned address",
+      "zip": "ZIP"
+    },
+    "business": {
+      "newOrder": "New ecommerce order",
+      "processed": "processed successfully",
+      "customerInfo": "Customer information",
+      "name": "Name:",
+      "email": "Email:",
+      "phone": "Phone:",
+      "notes": "Notes:",
+      "none": "None"
+    },
+    "subjects": {
+      "customer": "Order confirmation",
+      "business": "NEW ORDER"
+    }
+  },
+  "contactEmail": {
+    "errors": {
+      "missingFields": "Required fields are missing (name, email, message)"
+    },
+    "header": {
+      "description": "High-performance infrastructure, scalable cloud systems, and enterprise-grade digital solutions."
+    },
+    "footer": {
+      "copy": "Cloudza © 2026 — Infrastructure for modern businesses.",
+      "contact": "Contact:"
+    },
+    "internal": {
+      "badge": "NEW CONTACT REQUEST",
+      "title": "New website inquiry received",
+      "clientName": "Client Name",
+      "emailAddress": "Email Address",
+      "messageContent": "Message Content"
+    },
+    "user": {
+      "greeting": "Hello,",
+      "line1": "Your message has been successfully received.",
+      "line2": "Our Cloudza team is already reviewing your request and we'll get back to you as soon as possible.",
+      "messageTitle": "Your Message",
+      "button": "Visit Cloudza"
+    },
+    "subjects": {
+      "internal": "New Website Message:",
+      "user": "We received your message - Cloudza"
+    }
+  }
+}
