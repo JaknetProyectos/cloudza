@@ -1,6 +1,7 @@
 "use client";
 
 import { useCart } from "@/context/CartContext";
+import { useLocaleContext } from "@/context/LangContext";
 import { Link } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
 import {
@@ -11,6 +12,7 @@ import {
   ShoppingCart,
   X,
   Menu,
+  Languages,
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
@@ -25,6 +27,10 @@ export function Header() {
 
   const pathname = usePathname();
   const { itemCount } = useCart();
+
+
+  const { switchLanguage, locale } = useLocaleContext()
+  const nextLang = locale === "es" ? "en" : "es";
 
   const navLinks = [
     { label: t("nav.home"), href: "/", icon: Home },
@@ -68,7 +74,7 @@ export function Header() {
             </div>
 
             <div className="flex flex-col leading-none">
-               <Image
+              <Image
                 src="/title.png"
                 width={124}
                 height={44}
@@ -132,6 +138,17 @@ export function Header() {
                 {link.label}
               </Link>
             ))}
+            <button
+              onClick={() => {
+                switchLanguage(nextLang)
+              }}
+              className={cn(
+                "border-l-4 px-4 py-3 text-sm font-semibold transition-all",
+                "border-blue-600 bg-blue-50 text-blue-700",
+              )}
+            >
+              {t("nav.lang")}
+            </button>
           </nav>
         </div>
       </header>
@@ -177,6 +194,22 @@ export function Header() {
                 </Link>
               );
             })}
+            <button
+              onClick={() => {
+                switchLanguage(nextLang)
+              }}
+              className={cn(
+                "group relative flex h-12 w-12 items-center justify-center transition-all duration-200",
+                "bg-blue-600 text-white shadow-lg shadow-blue-600/20"
+              )}
+            >
+              <Languages className="h-5 w-5 transition-transform duration-200 group-hover:scale-110" />
+
+              {/* Tooltip */}
+              <span className="pointer-events-none absolute left-full ml-3 whitespace-nowrap rounded-md bg-slate-900 px-2 py-1 text-xs text-white opacity-0 shadow-lg transition-all duration-200 group-hover:opacity-100">
+                {t("nav.lang")}
+              </span>
+            </button>
           </nav>
 
           {/* Cart */}

@@ -9,7 +9,8 @@
       "home": "Start here",
       "about": "About us",
       "faq": "FAQ",
-      "contact": "Let's talk"
+      "contact": "Let's talk",
+      "lang": "English"
     }
   },
   "cloudzaContactForm": {
@@ -171,7 +172,7 @@
     "cardsAlt": "Visa and Mastercard",
     "legal": {
       "title": "Legal information",
-      "terms": "Terms and Conditions",
+      "terms": "Terms and Conditions of Service",
       "privacy": "Privacy Notice",
       "refunds": "Refund and Cancellation Policy"
     },
@@ -228,7 +229,8 @@
     "includes": "Includes",
     "requestQuote": "Request quote",
     "addToCart": "Add to cart",
-    "recommended": "Recommended"
+    "recommended": "Recommended",
+    "tax" : "+ VAT"
   },
   "planModal": {
     "back": "Back to plans",

@@ -34,7 +34,6 @@ export default async function LocaleLayout({
         <LocaleProvider>
           <CartProvider>
             <AlertProvider>
-              <LangSwitcher/>
               {children}
             </AlertProvider>
           </CartProvider>

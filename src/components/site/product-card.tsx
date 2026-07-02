@@ -153,7 +153,7 @@ export function PlanCard({
           )}
 
           <div className="mt-4 flex items-end gap-2">
-            <span className="text-5xl font-black tracking-tight md:text-6xl">
+            <span className="text-5xl font-black tracking-tight">
               {isCustomPlan
                 ? plan.name
                 : `$${formatPrice(plan.price)}`}
@@ -166,7 +166,7 @@ export function PlanCard({
                   featured ? "text-blue-100" : "text-slate-500"
                 )}
               >
-                {plan.currency}
+                MXN {t("tax")}
               </span>
             )}
           </div>

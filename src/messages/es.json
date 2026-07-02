@@ -9,7 +9,8 @@
       "home": "Iniciar aquí",
       "about": "Quiénes somos",
       "faq": "Preguntas frecuentes",
-      "contact": "Contacto"
+      "contact": "Contacto",
+      "lang" : "Español"
     }
   },
   "cloudzaFaqPage": {
@@ -171,9 +172,9 @@
     "cardsAlt": "Logotipos de Visa y Mastercard",
     "legal": {
       "title": "Políticas y condiciones",
-      "terms": "Condiciones del Servicio",
-      "privacy": "Política de Privacidad",
-      "refunds": "Políticas de Cancelación y Devoluciones"
+      "terms": "Términos y Condiciones de Servicio",
+      "privacy": "Aviso de Privacidad",
+      "refunds": "Política de Reembolsos y Cancelaciones"
     },
     "contact": {
       "title": "Medios de contacto",
@@ -228,7 +229,8 @@
     "includes": "Contiene",
     "requestQuote": "Pedir presupuesto",
     "addToCart": "Añadir a la cesta",
-    "recommended": "Destacado"
+    "recommended": "Destacado",
+    "tax" : "+ IVA"
   },
   "planModal": {
     "back": "Volver a la selección",

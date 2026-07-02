@@ -66,21 +66,21 @@ export function Footer() {
 
             <div className="mt-8 flex flex-col gap-5">
               <Link
-                href="/terminos"
+                href="/legal/terminos"
                 className="text-base text-slate-300 transition-colors duration-300 hover:text-white"
               >
                 {t("legal.terms")}
               </Link>
 
               <Link
-                href="/privacidad"
+                href="/legal/privacidad"
                 className="text-base text-slate-300 transition-colors duration-300 hover:text-white"
               >
                 {t("legal.privacy")}
               </Link>
 
               <Link
-                href="/reembolsos"
+                href="/legal/reembolsos"
                 className="text-base text-slate-300 transition-colors duration-300 hover:text-white"
               >
                 {t("legal.refunds")}
@@ -107,10 +107,10 @@ export function Footer() {
                   </p>
 
                   <a
-                    href="mailto:inicio@cloudza.io"
+                    href="inicio@cloudza.com.mx"
                     className="mt-2 block text-slate-400 transition-colors duration-300 hover:text-white"
                   >
-                    inicio@cloudza.io
+                    inicio@cloudza.com.mx
                   </a>
                 </div>
               </div>
