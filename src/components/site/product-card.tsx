@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { useCart } from "@/context/CartContext";
 import {
@@ -14,6 +15,7 @@ import { motion } from "framer-motion";
 import {
   ArrowRight,
   Check,
+  CheckCheck,
   Cloud,
   HardDrive,
   Server,
@@ -50,6 +52,8 @@ export function PlanCard({
   const { addItem } = useCart();
   const locale = useLocale();
 
+  const [added, setAdded] = useState(false);
+
   const planTabs =
     locale === "es" ? planTabsSpanish : planTabsEnglish;
 
@@ -64,13 +68,35 @@ export function PlanCard({
       slug: plan.slug,
       name: plan.name,
       price: plan.price,
-      icon: plan.icon,
+      icon: "/logo.png"
     });
+
+    setAdded(true);
   };
+
+  useEffect(() => {
+    if (!added) return;
+
+    const timeout = setTimeout(() => {
+      setAdded(false);
+    }, 2200);
+
+    return () => clearTimeout(timeout);
+  }, [added]);
 
   return (
     <motion.article
       variants={containerVariants}
+      animate={
+        added
+          ? {
+            scale: [1, 1.015, 1],
+          }
+          : {}
+      }
+      transition={{
+        duration: 0.35,
+      }}
       className={cn(
         "group relative flex h-full flex-col overflow-hidden border transition-all duration-300",
         featured
@@ -136,12 +162,6 @@ export function PlanCard({
               </span>
             </div>
           </div>
-
-          {/* {featured && (
-            <div className="px-3 py-1 text-[11px] font-bold uppercase tracking-[0.2em] text-orange-200">
-              {t("recommended")}
-            </div>
-          )} */}
         </div>
 
         {/* Title + price */}
@@ -253,14 +273,33 @@ export function PlanCard({
           <Button
             onClick={handleAdd}
             size="lg"
+            disabled={added}
             className={cn(
               "mt-10 h-14 w-full rounded-none border px-5 text-sm font-bold uppercase tracking-[0.18em] transition-all duration-300",
-              featured
-                ? "border-white bg-white text-blue-700 hover:bg-orange-50 hover:text-blue-800"
-                : "border-blue-700 bg-blue-700 text-white hover:border-blue-800 hover:bg-blue-800"
+              added
+                ? "border-emerald-500 bg-emerald-500 text-white hover:bg-emerald-600"
+                : featured
+                  ? "border-white bg-white text-blue-700 hover:bg-orange-50 hover:text-blue-800"
+                  : "border-blue-700 bg-blue-700 text-white hover:border-blue-800 hover:bg-blue-800"
             )}
           >
-            {t("addToCart")}
+            <span className="flex items-center gap-2">
+              {added ? (
+                <>
+                  <motion.div
+                    initial={{ scale: 0.5, rotate: -20 }}
+                    animate={{ scale: 1, rotate: 0 }}
+                    transition={{ duration: 0.2 }}
+                  >
+                    <CheckCheck className="h-5 w-5" />
+                  </motion.div>
+
+                  {t("added")}
+                </>
+              ) : (
+                t("addToCart")
+              )}
+            </span>
           </Button>
         )}
       </div>

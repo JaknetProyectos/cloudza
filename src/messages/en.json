@@ -230,7 +230,8 @@
     "requestQuote": "Request quote",
     "addToCart": "Add to cart",
     "recommended": "Recommended",
-    "tax" : "+ VAT"
+    "tax" : "+ VAT",
+    "added": "Added"
   },
   "planModal": {
     "back": "Back to plans",

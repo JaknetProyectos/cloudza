@@ -230,7 +230,8 @@
     "requestQuote": "Pedir presupuesto",
     "addToCart": "Añadir a la cesta",
     "recommended": "Destacado",
-    "tax" : "+ IVA"
+    "tax" : "+ IVA",
+    "added": "Agregado"
   },
   "planModal": {
     "back": "Volver a la selección",
