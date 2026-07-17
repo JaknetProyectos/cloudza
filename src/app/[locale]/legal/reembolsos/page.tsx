@@ -44,7 +44,7 @@ function LegalEs() {
                     <li>Servicios de hosting, VPS, servidores dedicados y soluciones relacionadas</li>
                 </ul>
 
-                <p><strong>Contacto:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Contacto:</strong> inicio@klyhost.com</p>
 
                 <h2>2. Cancelaciones Iniciadas por el Cliente</h2>
 
@@ -55,7 +55,7 @@ function LegalEs() {
                 <ol>
                     <li>
                         <strong>Enviar solicitud</strong>
-                        Correo a: inicio@cloudza.com.mx con asunto “SOLICITUD DE CANCELACIÓN”
+                        Correo a: inicio@klyhost.com con asunto “SOLICITUD DE CANCELACIÓN”
                     </li>
 
                     <li>
@@ -214,7 +214,7 @@ function LegalEs() {
                 </ul>
 
                 <p>
-                    <strong>Recomendación:</strong> Siempre contacte primero a inicio@cloudza.com.mx antes de iniciar un contracargo.
+                    <strong>Recomendación:</strong> Siempre contacte primero a inicio@klyhost.com antes de iniciar un contracargo.
                 </p>
 
                 <h2>8. Migraciones y Cambios de Plan</h2>
@@ -360,7 +360,7 @@ function LegalEn() {
                     <li>Hosting services, VPS, dedicated servers, and related solutions</li>
                 </ul>
 
-                <p><strong>Contact:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Contact:</strong> inicio@klyhost.com</p>
 
                 <h2>2. Customer-Initiated Cancellations</h2>
 
@@ -371,7 +371,7 @@ function LegalEn() {
                 <ol>
                     <li>
                         <strong>Send request</strong>
-                        <p>Email to: inicio@cloudza.com.mx with the subject “CANCELLATION REQUEST”</p>
+                        <p>Email to: inicio@klyhost.com with the subject “CANCELLATION REQUEST”</p>
                     </li>
 
                     <li>
@@ -530,7 +530,7 @@ function LegalEn() {
                 </ul>
 
                 <p>
-                    <strong>Recommendation:</strong> Always contact inicio@cloudza.com.mx before initiating a chargeback.
+                    <strong>Recommendation:</strong> Always contact inicio@klyhost.com before initiating a chargeback.
                 </p>
 
                 <h2>8. Migrations and Plan Changes</h2>

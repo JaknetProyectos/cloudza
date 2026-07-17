@@ -28,7 +28,7 @@ export const faqsSpanish: { q: string; a: string }[] = [
     a: "Es el tiempo que tu sitio web permanece en línea. Garantizamos un 99.99% de disponibilidad para que tu negocio nunca se detenga.",
   },
   {
-    q: "¿Cuáles son los beneficios de alojar mi sitio con Cloudza?",
+    q: "¿Cuáles son los beneficios de alojar mi sitio con Klyhost?",
     a: "Con nosotros obtienes un servicio estable, seguro y optimizado, respaldado por una infraestructura moderna que garantiza el mejor rendimiento para tu sitio web.",
   },
 ];
@@ -63,7 +63,7 @@ export const faqsEnglish: { q: string; a: string }[] = [
     a: "It's the time your website stays online. We guarantee 99.99% uptime so your business never stops.",
   },
   {
-    q: "What are the benefits of hosting my site with Cloudza?",
+    q: "What are the benefits of hosting my site with Klyhost?",
     a: "With us you get a stable, secure and optimized service, backed by modern infrastructure that guarantees the best performance for your website.",
   },
 ];

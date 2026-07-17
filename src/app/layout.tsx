@@ -17,7 +17,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Cloudza",
+  title: "Klyhost",
   description:
     "Make your site grow with powerfull high quality hosting",
   icons: {

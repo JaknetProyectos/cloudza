@@ -107,10 +107,10 @@ export function Footer() {
                   </p>
 
                   <a
-                    href="inicio@cloudza.com.mx"
+                    href="inicio@klyhost.com"
                     className="mt-2 block text-slate-400 transition-colors duration-300 hover:text-white"
                   >
-                    inicio@cloudza.com.mx
+                    inicio@klyhost.com
                   </a>
                 </div>
               </div>

@@ -44,12 +44,12 @@ function LegalEs() {
 
                 <p><strong>Sitio web:</strong> cloudza.com.mx</p>
 
-                <p><strong>Contacto:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Contacto:</strong> inicio@klyhost.com</p>
 
                 <h2>Artículo 2. Aceptación y Perfeccionamiento</h2>
 
                 <p>
-                    Al utilizar el sitio web Cloudza.com.mx y contratar LOS SERVICIOS, EL CLIENTE declara:
+                    Al utilizar el sitio web Klyhost.com.mx y contratar LOS SERVICIOS, EL CLIENTE declara:
                 </p>
 
                 <ul>
@@ -205,7 +205,7 @@ function LegalEs() {
 
                 <h3>Canales de Soporte</h3>
 
-                <p><strong>Correo electrónico:</strong> inicio@cloudza.com.mx.mx</p>
+                <p><strong>Correo electrónico:</strong> inicio@klyhost.com.mx</p>
 
                 <p>El soporte técnico NO incluye:</p>
 
@@ -265,7 +265,7 @@ function LegalEs() {
                 <h3>Derechos de CLOUDZA</h3>
 
                 <p>
-                    Todos los elementos del sitio web Cloudza.com.mx, incluyendo diseño, código, logotipos, marcas, contenidos y estructura, son propiedad de CATALOG CLIQ S.A. DE C.V. y están protegidos por las leyes de propiedad intelectual e industrial aplicables.
+                    Todos los elementos del sitio web Klyhost.com.mx, incluyendo diseño, código, logotipos, marcas, contenidos y estructura, son propiedad de CATALOG CLIQ S.A. DE C.V. y están protegidos por las leyes de propiedad intelectual e industrial aplicables.
                 </p>
 
                 <h3>Derechos del Cliente</h3>
@@ -386,12 +386,12 @@ function LegalEn() {
 
                 <p><strong>Website:</strong> cloudza.com.mx</p>
 
-                <p><strong>Contact:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Contact:</strong> inicio@klyhost.com</p>
 
                 <h2>Article 2. Acceptance and Perfection</h2>
 
                 <p>
-                    By using the Cloudza.com.mx website and contracting THE SERVICES, THE CLIENT declares:
+                    By using the Klyhost.com.mx website and contracting THE SERVICES, THE CLIENT declares:
                 </p>
 
                 <ul>
@@ -547,7 +547,7 @@ function LegalEn() {
 
                 <h3>Support Channels</h3>
 
-                <p><strong>Email:</strong> inicio@cloudza.com.mx.mx</p>
+                <p><strong>Email:</strong> inicio@klyhost.com.mx</p>
 
                 <p>Technical support does NOT include:</p>
 
@@ -607,7 +607,7 @@ function LegalEn() {
                 <h3>CLOUDZA Rights</h3>
 
                 <p>
-                    All elements of the Cloudza.com.mx website, including design, code, logos, trademarks, content, and structure, are the property of CATALOG CLIQ S.A. DE C.V. and are protected by applicable intellectual and industrial property laws.
+                    All elements of the Klyhost.com.mx website, including design, code, logos, trademarks, content, and structure, are the property of CATALOG CLIQ S.A. DE C.V. and are protected by applicable intellectual and industrial property laws.
                 </p>
 
                 <h3>Client Rights</h3>

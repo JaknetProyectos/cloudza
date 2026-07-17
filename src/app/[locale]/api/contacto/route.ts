@@ -3,8 +3,8 @@ import { Resend } from "resend";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
-const BRAND_NAME = "Cloudza";
-const CONTACT_EMAIL = "inicio@cloudza.com.mx";
+const BRAND_NAME = "Klyhost";
+const CONTACT_EMAIL = "inicio@klyhost.com";
 const LOGO_URL = "https://cloudza.com.mx/logo.png";
 
 function customerTemplate({

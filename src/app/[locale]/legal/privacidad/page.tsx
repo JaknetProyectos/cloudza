@@ -39,8 +39,8 @@ function LegalEs() {
                 <p>
                     <strong>Domicilio Fiscal:</strong> Avenida Homero N°205 Piso 10, Colonia Polanco V Sección, Alcaldía Miguel Hidalgo, C.P. 11560, Ciudad de México
                 </p>
-                <p><strong>Sitio Web:</strong> Cloudza.com.mx</p>
-                <p><strong>Correo de Contacto:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Sitio Web:</strong> Klyhost.com.mx</p>
+                <p><strong>Correo de Contacto:</strong> inicio@klyhost.com</p>
 
                 <h2>II. Consentimiento y Aceptación</h2>
 
@@ -126,7 +126,7 @@ function LegalEs() {
                 </ul>
 
                 <p>
-                    Usted puede manifestar su oposición al tratamiento de sus datos para estas finalidades secundarias en cualquier momento, enviando un correo electrónico a inicio@cloudza.com.mx con el asunto “OPOSICIÓN FINALIDADES SECUNDARIAS”. Su negativa no afectará la prestación de los servicios contratados.
+                    Usted puede manifestar su oposición al tratamiento de sus datos para estas finalidades secundarias en cualquier momento, enviando un correo electrónico a inicio@klyhost.com con el asunto “OPOSICIÓN FINALIDADES SECUNDARIAS”. Su negativa no afectará la prestación de los servicios contratados.
                 </p>
 
                 <h2>V. Compartición y Transferencia de Datos</h2>
@@ -193,7 +193,7 @@ function LegalEs() {
                     Para ejercer cualquiera de estos derechos, deberá enviar su solicitud a:
                 </p>
 
-                <p><strong>Correo electrónico:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Correo electrónico:</strong> inicio@klyhost.com</p>
                 <p><strong>Asunto:</strong> SOLICITUD ARCO – [especificar derecho]</p>
 
                 <p>
@@ -231,13 +231,13 @@ function LegalEs() {
                 <h2>VIII. Limitación de Uso y Divulgación</h2>
 
                 <p>
-                    Si desea limitar el uso o divulgación de sus datos personales, puede solicitarlo enviando un correo electrónico a inicio@cloudza.com.mx con el asunto “LIMITACIÓN DE USO Y DIVULGACIÓN”, especificando las limitaciones que desea establecer.
+                    Si desea limitar el uso o divulgación de sus datos personales, puede solicitarlo enviando un correo electrónico a inicio@klyhost.com con el asunto “LIMITACIÓN DE USO Y DIVULGACIÓN”, especificando las limitaciones que desea establecer.
                 </p>
 
                 <h2>IX. Cookies y Tecnologías de Rastreo</h2>
 
                 <p>
-                    El sitio web Cloudza.com.mx utiliza cookies y tecnologías similares para:
+                    El sitio web Klyhost.com.mx utiliza cookies y tecnologías similares para:
                 </p>
 
                 <ul>
@@ -284,7 +284,7 @@ function LegalEs() {
                 </p>
 
                 <ul>
-                    <li>Publicación en el sitio web Cloudza.com.mx</li>
+                    <li>Publicación en el sitio web Klyhost.com.mx</li>
                     <li>Notificación al correo electrónico registrado</li>
                 </ul>
 
@@ -336,8 +336,8 @@ function LegalEn() {
                 <p>
                     <strong>Tax Address:</strong> Avenida Homero N°205 Floor 10, Colonia Polanco V Sección, Miguel Hidalgo Borough, ZIP Code 11560, Mexico City
                 </p>
-                <p><strong>Website:</strong> Cloudza.com.mx</p>
-                <p><strong>Contact Email:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Website:</strong> Klyhost.com.mx</p>
+                <p><strong>Contact Email:</strong> inicio@klyhost.com</p>
 
                 <h2>II. Consent and Acceptance</h2>
 
@@ -423,7 +423,7 @@ function LegalEn() {
                 </ul>
 
                 <p>
-                    You may object to the processing of your data for these secondary purposes at any time by sending an email to inicio@cloudza.com.mx with the subject “OBJECTION TO SECONDARY PURPOSES”. Your refusal will not affect the provision of contracted services.
+                    You may object to the processing of your data for these secondary purposes at any time by sending an email to inicio@klyhost.com with the subject “OBJECTION TO SECONDARY PURPOSES”. Your refusal will not affect the provision of contracted services.
                 </p>
 
                 <h2>V. Sharing and Transfer of Data</h2>
@@ -490,7 +490,7 @@ function LegalEn() {
                     To exercise any of these rights, you must send your request to:
                 </p>
 
-                <p><strong>Email:</strong> inicio@cloudza.com.mx</p>
+                <p><strong>Email:</strong> inicio@klyhost.com</p>
                 <p><strong>Subject:</strong> ARCO REQUEST – [specify right]</p>
 
                 <p>
@@ -528,13 +528,13 @@ function LegalEn() {
                 <h2>VIII. Limitation of Use and Disclosure</h2>
 
                 <p>
-                    If you wish to limit the use or disclosure of your personal data, you may request it by sending an email to inicio@cloudza.com.mx with the subject “LIMITATION OF USE AND DISCLOSURE”, specifying the limitations you wish to establish.
+                    If you wish to limit the use or disclosure of your personal data, you may request it by sending an email to inicio@klyhost.com with the subject “LIMITATION OF USE AND DISCLOSURE”, specifying the limitations you wish to establish.
                 </p>
 
                 <h2>IX. Cookies and Tracking Technologies</h2>
 
                 <p>
-                    The website Cloudza.com.mx uses cookies and similar technologies to:
+                    The website Klyhost.com.mx uses cookies and similar technologies to:
                 </p>
 
                 <ul>
@@ -581,7 +581,7 @@ function LegalEn() {
                 </p>
 
                 <ul>
-                    <li>Publication on the website Cloudza.com.mx</li>
+                    <li>Publication on the website Klyhost.com.mx</li>
                     <li>Notification to the registered email address</li>
                 </ul>
 
